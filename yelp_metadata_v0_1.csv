@@ -1,0 +1,522 @@
+,Restaurant Name,Rating,Review Count,Expected Cost,Price Range,Cuisines,Accepts Credit Cards,Address,Alcohol,Ambience,Attire,Bike Parking,Caters,Delivery,Good For,Good for Groups,Good for Kids,Has TV,Noise Level,Outdoor Seating,Parking,Take-out,Takes Reservations,Waiter Service,Wheelchair Accessible,Wi-Fi,Review Count Num,Clean Rating
+0,3 Guys Sushi,4.0 star rating,42 reviews,$$,$11-30,"['Japanese', 'Thai', 'Sushi Bars']",Yes,"530 Forest AveStaten Island, NY 10310",Full Bar,,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,Free,42.0,4.0
+1,3E Taste Of Thai,4.0 star rating,210 reviews,$$,$11-30,['Thai'],Yes,"34-16 BroadwayAstoria, NY 11106",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,Free,210.0,4.0
+2,624 Kam Hai Chinese,2.5 star rating,21 reviews,$,Under $10,"['Chinese', 'Thai']",No,"624 Caton AveBrooklyn, NY 11218",No,,Casual,No,,Yes,,No,Yes,No,,No,,Yes,No,,,No,21.0,2.5
+3,8 Paet Rio,3.5 star rating,58 reviews,$$,$11-30,['Thai'],Yes,"81-10 BroadwayElmhurst, NY 11373",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,No,58.0,3.5
+4,A & J,2.0 star rating,7 reviews,$$,,"['Sushi Bars', 'Thai', 'Asian Fusion']",Yes,"333 Flatbush AveSte 2Brooklyn, NY 11217",No,,,Yes,,Yes,,,,No,Average,No,,Yes,,Yes,,,7.0,2.0
+5,A La Mode Oriental,2.0 star rating,27 reviews,$$,$11-30,['Thai'],Yes,"37 W 54th StNew York, NY 10019",No,,Casual,,No,Yes,Dinner,Yes,No,,,,,Yes,,,,,27.0,2.0
+6,A+ Thai Place,3.0 star rating,143 reviews,$$,$11-30,['Thai'],Yes,"1007 2nd AveNew York, NY 10022",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,Free,143.0,3.0
+7,A1 Asian Fusion,3.5 star rating,44 reviews,$$,$11-30,"['Asian Fusion', 'Japanese', 'Thai']",Yes,"2071 7th AveNew York, NY 10027",Full Bar,,Casual,No,,Yes,Lunch,Yes,Yes,No,Quiet,No,,Yes,,Yes,,No,44.0,3.5
+8,Abaya Thai,3.0 star rating,35 reviews,$$,$11-30,['Thai'],Yes,"318 W 36th StNew York, NY 10018",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Lunch,Yes,Yes,No,Quiet,No,,Yes,Yes,Yes,,No,35.0,3.0
+9,Absolute Thai Homemade,4.0 star rating,104 reviews,$$,,['Thai'],Yes,"644 Anderson AveCliffside Park, NJ 07010",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,Free,104.0,4.0
+10,Absolute Thai,4.0 star rating,105 reviews,$$,$11-30,['Thai'],Yes,"1590 Lexington AveNew York, NY 10029",No,Casual,Casual,Yes,No,Yes,Lunch,No,No,No,Quiet,No,Street,Yes,No,No,No,No,105.0,4.0
+11,Accent Thai Kitchen,3.5 star rating,74 reviews,$$,,['Thai'],Yes,"631 Mclean AveYonkers, NY 10705",Beer & Wine Only,Casual,Casual,No,No,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,74.0,3.5
+12,Aceluck Thai Cuisine,3.5 star rating,142 reviews,$$,$11-30,['Thai'],Yes,"530 9th AveNew York, NY 10018",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,142.0,3.5
+13,Ahana,4.0 star rating,73 reviews,$$,$11-30,"['Japanese', 'Chinese', 'Thai']",Yes,"1154 1st AveNew York, NY 10065",Beer & Wine Only,Casual,Casual,Yes,,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,No,73.0,4.0
+14,Am Thai Bistro,4.0 star rating,313 reviews,$$,,['Thai'],Yes,"1003 Church AveBrooklyn, NY 11218",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,Free,313.0,4.0
+15,Amarin Cafe,4.0 star rating,219 reviews,$,,['Thai'],No,"617 Manhattan AveBrooklyn, NY 11222",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,219.0,4.0
+16,Amina Thai,3.5 star rating,90 reviews,$$,$11-30,"['Asian Fusion', 'Halal', 'Thai']",Yes,"169-22 Hillside AveJamaica, NY 11432",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,Free,90.0,3.5
+17,Anago Sushi,3.0 star rating,5 reviews,,,"['Sushi Bars', 'Thai']",Yes,"240 8th AveNew York, NY 10011",,,,,,Yes,,,,,,No,,Yes,Yes,,Yes,No,5.0,3.0
+18,Andaman Thai Bistro,4.0 star rating,107 reviews,$$,,['Thai'],Yes,"1843 1st AveNew York, NY 10128",Full Bar,Casual,Casual,Yes,,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,Free,107.0,4.0
+19,Aoyama,3.5 star rating,103 reviews,$$,,"['Japanese', 'Sushi Bars', 'Thai']",Yes,"319 Franklin AveUnit 112Wyckoff, NJ 07481",No,Classy,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Private Lot,Yes,Yes,Yes,Yes,Free,103.0,3.5
+20,Arbor Bistro,3.5 star rating,97 reviews,$$,$11-30,"['Sushi Bars', 'Asian Fusion', 'Thai']",Yes,"226 W Houston StNew York, NY 10014",Beer & Wine Only,Casual,Casual,Yes,,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,,Free,97.0,3.5
+21,Arharn Thai Restaurant,4.0 star rating,141 reviews,$$,,['Thai'],Yes,"3205 36th AveAstoria, NY 11106",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,141.0,4.0
+22,Aria Fusion,4.0 star rating,40 reviews,$$,$11-30,"['Asian Fusion', 'Sushi Bars', 'Thai']",Yes,"Harrison Shopping Mall385 Halstead AveHarrison, NY 10528",Full Bar,Casual,Casual,No,Yes,Yes,Lunch,Yes,Yes,Yes,Average,No,,Yes,Yes,Yes,,Free,40.0,4.0
+23,Aroy Dee Thai Kitchen,3.5 star rating,243 reviews,$,Under $10,['Thai'],Yes,"20 John StNew York, NY 10038",No,Casual,Casual,Yes,Yes,Yes,Lunch,No,Yes,No,Average,No,Street,Yes,No,Yes,,No,243.0,3.5
+24,"Aroy-D, The Thai Elephant Truck",3.5 star rating,38 reviews,$,,"['Thai', 'Food Trucks']",Yes,"1 14th St, Hoboken, NJHoboken, NJ 07030",No,,Casual,Yes,Yes,No,,Yes,Yes,No,Average,No,Street,Yes,No,No,Yes,Free,38.0,3.5
+25,Arunee Thai,4.0 star rating,214 reviews,$$,,['Thai'],Yes,"78-23 37th AvenueJackson Heights, NY 11372",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,214.0,4.0
+26,Asia Express,3.0 star rating,5 reviews,$,,['Thai'],Yes,"4703 Ave NNew York, NY 11234",No,,Casual,Yes,No,Yes,,Yes,Yes,No,Quiet,No,,Yes,No,Yes,,No,5.0,3.0
+27,Asiam Thai Cuisine,3.5 star rating,153 reviews,$$,$11-30,['Thai'],Yes,"259 1st AveNew York, NY 10003",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,153.0,3.5
+28,Asian Bowl Restaurant,3.5 star rating,99 reviews,$,,"['Chinese', 'Thai']",Yes,"24806 Union TpkeBellerose, NY 11426",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,"Street, Private Lot",Yes,No,Yes,Yes,Paid,99.0,3.5
+29,Asian Chao,3.0 star rating,8 reviews,$$,,['Thai'],Yes,"630 Old Country RdSte 2109Garden City, NY 11530",,,Casual,,,No,,Yes,Yes,No,,Yes,,Yes,No,,,,8.0,3.0
+30,Asian Fortune Restaurant,3.5 star rating,32 reviews,$$,$11-30,"['Asian Fusion', 'Chinese', 'Thai']",Yes,"103-35 Queens BoulevardForest Hills, NY 11375",,,Casual,,,Yes,,Yes,Yes,,Very Loud,No,,Yes,No,,,,32.0,3.5
+31,Asian Fusion,4.0 star rating,47 reviews,$$,,"['Asian Fusion', 'Sushi Bars', 'Thai']",Yes,"66 School StGlen Cove, NY 11542",Beer & Wine Only,,Casual,Yes,,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,Free,47.0,4.0
+32,Asian Garden,3.0 star rating,1 review,,,"['Seafood', 'Noodles', 'Thai']",Yes,"244 Livingston StNorthvale, NJ 07647",,,,,,No,,,,,,,,No,Yes,,,,1.0,3.0
+33,Asian Gourmet,3.5 star rating,71 reviews,$$,,"['Vietnamese', 'Malaysian', 'Thai']",Yes,"57-11 Main StFLUSHING, NY 11355",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,71.0,3.5
+34,Asian Kawa,4.0 star rating,12 reviews,$$$,,"['Japanese', 'Sushi Bars', 'Thai']",Yes,"652 Main RDMontville, NJ 07082",,,Casual,Yes,,Yes,,Yes,Yes,Yes,Average,No,"Street, Private Lot",Yes,Yes,Yes,Yes,Free,12.0,4.0
+35,Asian Station,3.5 star rating,168 reviews,$$,$11-30,"['Japanese', 'Thai']",Yes,"155 E 52nd StNew York, NY 10022",Full Bar,Casual,Casual,No,Yes,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,Free,168.0,3.5
+36,Asian Time,1.5 star rating,7 reviews,,,"['Japanese', 'Thai']",,"347 Flatbush Ave.Brooklyn, NY 11238",,,,,,,,,,,,,,,,,,,7.0,1.5
+37,Asuka Sushi,4.0 star rating,620 reviews,$$,,"['Sushi Bars', 'Japanese', 'Thai']",Yes,"300 W 23rd StNew York, NY 10011",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,Free,620.0,4.0
+38,At nine Restaurant & Bar,4.0 star rating,268 reviews,$$,$11-30,"['Thai', 'Bars']",Yes,"592 9th AveNew York, NY 10036",Full Bar,Trendy,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,No,No,Average,No,Street,Yes,Yes,Yes,,No,268.0,4.0
+39,Atit Thai Restaurant,4.0 star rating,7 reviews,$$,,"['Thai', 'Asian Fusion']",Yes,"134 North AveNew Rochelle, NY 10801",No,,Casual,Yes,,No,,Yes,Yes,Yes,,No,,Yes,No,Yes,Yes,,7.0,4.0
+40,Aura,3.5 star rating,144 reviews,$$,$11-30,['Thai'],Yes,"462 9th AveNew York, NY 10018",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Lunch,No,Yes,Yes,Average,No,Street,Yes,,Yes,Yes,No,144.0,3.5
+41,Auttharos,4.0 star rating,235 reviews,$$,$11-30,"['Thai', 'Salad']",No,"71-28 Roosevelt AveJackson Heights, NY 11372",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,235.0,4.0
+42,Avenue A Asian World,2.5 star rating,3 reviews,,,['Thai'],,"103 Ave ANew York, NY 10009",,,,,,,,,,,,,,,,,,,3.0,2.5
+43,Ayada Thai,1.5 star rating,2 reviews,$,,['Thai'],Yes,"139 W 28th StNew York, NY 10001",,,,,,,,,,,,,,,,,,,2.0,1.5
+44,Bamboo House,1.0 star rating,1 review,$,,"['Thai', 'Chinese']",,"4107 Avenue UMarine Park, NY 11234",,,,,,,,No,,,,,,Yes,No,,,,1.0,1.0
+45,Bang Thai,2.5 star rating,2 reviews,,,['Thai'],,"210 Thompson StNew York, NY 10012",,,,,,,,,,,,,,,,,,,2.0,2.5
+46,Bangkok 2 Thai,3.5 star rating,135 reviews,$$,$11-30,['Thai'],Yes,"349 1st AveNew York, NY 10010",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,No,135.0,3.5
+47,Bangkok BAR NYC,2.5 star rating,32 reviews,$$,,['Thai'],Yes,"230 Park AveNew York, NY 10169",No,Casual,Casual,No,Yes,No,Lunch,Yes,Yes,No,Very Loud,No,,Yes,No,Yes,,,32.0,2.5
+48,Bangkok City Thai Restaurant,3.0 star rating,117 reviews,$$,$11-30,['Thai'],Yes,"335 Washington StHoboken, NJ 07030",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,Yes,Street,Yes,Yes,Yes,Yes,No,117.0,3.0
+49,Bangkok Cuisine Upper East Side,4.0 star rating,141 reviews,$$,$11-30,['Thai'],Yes,"1586 2 AveNew York, NY 10028",Full Bar,,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Garage,Yes,Yes,Yes,Yes,No,141.0,4.0
+50,Bangkok Cuisine,3.5 star rating,266 reviews,$$,$11-30,['Thai'],Yes,"10718 70th RdForest Hills, NY 11375",Full Bar,Casual,Casual,No,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,266.0,3.5
+51,Bangkok House,3.5 star rating,192 reviews,$$,,['Thai'],Yes,"360 W 46 StNew York, NY 10036",Full Bar,Casual,Casual,No,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,192.0,3.5
+52,Bangkok Tasty,3.5 star rating,128 reviews,$$,,['Thai'],Yes,"2906 23rd AveAstoria, NY 11105",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,128.0,3.5
+53,Bangkok Thai Cuisine,3.0 star rating,95 reviews,$$,,['Thai'],No,"3804 Prince StFlushing, NY 11354",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,,No,95.0,3.0
+54,BANY - Best Asian of New York,2.5 star rating,95 reviews,$$,$11-30,"['Asian Fusion', 'Japanese', 'Thai']",Yes,"10-57 Jackson AveLong Island City, NY 11101",Beer & Wine Only,Casual,Casual,No,,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,95.0,2.5
+55,Baoburg,4.0 star rating,62 reviews,$$,,"['Asian Fusion', 'Dim Sum', 'Thai']",Yes,"614 Manhattan AveBrooklyn, NY 11222",Full Bar,,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,No,Yes,Yes,No,62.0,4.0
+56,Bay House Bistro,3.0 star rating,50 reviews,$$,$11-30,"['Thai', 'Chinese', 'Sushi Bars']",Yes,"574 Bay StStaten Island, NY 10304",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,No,Free,50.0,3.0
+57,Bay Thai,3.5 star rating,41 reviews,$$,,['Thai'],Yes,"6735 3rd AveBrooklyn, NY 11220",No,,Casual,Yes,No,Yes,Lunch,Yes,Yes,No,Quiet,No,,Yes,Yes,Yes,,Free,41.0,3.5
+58,Bennie’s Thai Cafe,3.5 star rating,255 reviews,$$,$11-30,['Thai'],Yes,"88 Fulton StNew York, NY 10038",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,No,No,255.0,3.5
+59,Best American Hero & Thai Food,,,,,['Thai'],,"82 Reade StNew York, NY 10007",,,,,,,,,,,,,,,,,,,,
+60,Big Bowl,5.0 star rating,6 reviews,$,Under $10,"['Thai', 'Gluten-Free', 'Chinese']",Yes,"1764 1st AveNew York, NY 10128",,,,,Yes,Yes,,,,,,,,,No,,,,6.0,5.0
+61,Big D’s Khao Cart,4.0 star rating,12 reviews,$,,"['Food Trucks', 'Vietnamese', 'Thai']",Yes,"50th & 6th AveNew York, NY 10020",No,Casual,Casual,Yes,Yes,No,Lunch,Yes,Yes,No,Average,No,Street,Yes,No,No,,No,12.0,4.0
+62,BKNY Thai Restaurant,4.0 star rating,831 reviews,$$,,['Thai'],Yes,"47-11 Francis Lewis BlvdBayside, NY 11361",Full Bar,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,Yes,Average,No,"Street, Private Lot",Yes,Yes,Yes,Yes,No,831.0,4.0
+63,Black Thai,4.0 star rating,138 reviews,$$,$11-30,['Thai'],Yes,"81-16 Northern BlvdJackson Heights, NY 11372",Beer & Wine Only,Intimate,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,Free,138.0,4.0
+64,Blu Orchid Thai Kitchen,4.0 star rating,147 reviews,$$,$11-30,"['Thai', 'Vietnamese', 'Bars']",Yes,"4504 Queens BlvdSunnyside, NY 11104",Full Bar,"Trendy, Classy",Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,Free,147.0,4.0
+65,Boon Chu 2 Thai Place,3.5 star rating,98 reviews,$$,$11-30,['Thai'],Yes,"35-13 Ditmars BlvdAstoria, NY 11105",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,,No,98.0,3.5
+66,Boon Chu Thai Place,4.0 star rating,170 reviews,$,,['Thai'],Yes,"83-18 BroadwayElmhurst, NY 11373",No,Casual,Casual,No,No,Yes,"Lunch, Dinner",No,Yes,Yes,Quiet,No,Street,Yes,No,Yes,No,No,170.0,4.0
+67,Boon Thai Kitchen,4.0 star rating,47 reviews,$$,,['Thai'],Yes,"21 E Northfield RdLivingston, NJ 07039",No,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,47.0,4.0
+68,Boon Thai,3.5 star rating,18 reviews,$$,$11-30,['Thai'],Yes,"681 Manhattan AveGreenpoint, NY 11222",,,Casual,Yes,,Yes,,Yes,Yes,No,,No,,,Yes,,,,18.0,3.5
+69,Boonsong Thai,3.5 star rating,58 reviews,$$,,['Thai'],Yes,"1040 Broad StBloomfield, NJ 07003",No,Casual,Casual,No,No,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,,58.0,3.5
+70,Bordolois Asian Fusion,3.5 star rating,59 reviews,$$,,"['Chinese', 'Asian Fusion', 'Thai']",Yes,"499 Ernston RdParlin, NJ 08859",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,"Valet, Street, Private Lot",Yes,Yes,Yes,,Free,59.0,3.5
+71,Born Thai,3.5 star rating,221 reviews,$$,,['Thai'],Yes,"293 Flatbush AveBrooklyn, NY 11217",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,221.0,3.5
+72,Broadway Thai,3.5 star rating,54 reviews,$$,,['Thai'],Yes,"241 W 51st StNew York, NY 10019",Full Bar,,Casual,Yes,No,No,,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,No,54.0,3.5
+73,Brookside Thai Restaurant,3.5 star rating,164 reviews,$$,,['Thai'],Yes,"380 Broad StBloomfield, NJ 07003",No,Casual,Casual,Yes,Yes,No,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,164.0,3.5
+74,Bua Thai,,,,,['Thai'],,"232 W Park AveLong Beach, NY 11561",,,,,,,,,,,,,,,,,,,,
+75,Bunrasa Thai Restaurant,2.5 star rating,7 reviews,,,['Thai'],Yes,"109 Washington StNew York, NY 10006",No,,,,,,,No,No,,,,,,,,,,7.0,2.5
+76,Cafe Asian,5.0 star rating,4 reviews,$$,,"['Sushi Bars', 'Thai', 'Chinese']",Yes,"509 Avenel StWoodbridge Township, NJ 07001",No,,Casual,,,Yes,,No,Yes,Yes,Quiet,No,,Yes,No,No,,No,4.0,5.0
+77,Cafe Chili,3.0 star rating,111 reviews,$$,$11-30,"['Thai', 'Cafes']",Yes,"172 Court StBrooklyn, NY 11201",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,111.0,3.0
+78,Ceetay,4.5 star rating,205 reviews,$$,,"['Sushi Bars', 'Asian Fusion', 'Thai']",Yes,"129 Alexander AveBronx, NY 10454",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,205.0,4.5
+79,Centre Thai Bistro,4.0 star rating,115 reviews,$$,,['Thai'],Yes,"268B Atlantic AveEast Rockaway, NY 11518",Beer & Wine Only,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,No,115.0,4.0
+80,Cha Ba Thai,4.0 star rating,99 reviews,$$,,['Thai'],Yes,"12 W Park AveLong Beach, NY 11561",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,99.0,4.0
+81,ChaamLex,3.5 star rating,101 reviews,$$,$11-30,['Thai'],Yes,"34 Lexington AveNew York, NY 10010",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,101.0,3.5
+82,Chai Thai Kitchen,3.5 star rating,376 reviews,$$,$11-30,['Thai'],Yes,"930 8th AveNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,No,No,Average,No,Street,Yes,No,Yes,No,No,376.0,3.5
+83,Chai,3.5 star rating,264 reviews,$$,,['Thai'],Yes,"124 N 6th StBrooklyn, NY 11211",Full Bar,Intimate,Casual,Yes,No,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,Yes,No,264.0,3.5
+84,Chang Noi Thai,5.0 star rating,40 reviews,$$,,['Thai'],Yes,"100 Stuyvesant PlStaten Island, NY 10301",No,,Casual,Yes,,Yes,Lunch,No,Yes,No,Quiet,No,,Yes,No,,,Free,40.0,5.0
+85,Chang Pai,2.0 star rating,39 reviews,$$,$11-30,"['Thai', 'Chinese']",Yes,"166-12 Hillside AveJamaica, NY 11432",No,Casual,Casual,Yes,,Yes,Lunch,No,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,No,39.0,2.0
+86,Chao Thai Restaurant,4.0 star rating,310 reviews,$$,,['Thai'],No,"8503 Whitney AveElmhurst, NY 11373",No,Casual,Casual,No,No,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,310.0,4.0
+87,Chat Kaew Thai Cuisine,4.0 star rating,39 reviews,$$,,['Thai'],Yes,"4 E Palisade AveEnglewood, NJ 07631",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,39.0,4.0
+88,Cheers Thai,3.0 star rating,87 reviews,$$,$11-30,['Thai'],Yes,"568 Metropolitan AveBrooklyn, NY 11211",Full Bar,Trendy,Casual,Yes,No,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,No,87.0,3.0
+89,Chef’s Secret,2.0 star rating,67 reviews,$$,$11-30,['Thai'],Yes,"137 E 45th StNew York, NY 10017",No,Casual,Casual,Yes,,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,No,67.0,2.0
+90,Chelsea Thai Wholesale,3.0 star rating,193 reviews,$$,,"['Thai', 'Vegetarian']",Yes,"75 9th AveNew York, NY 10011",No,Casual,Casual,No,Yes,Yes,Lunch,No,Yes,No,Average,No,"Garage, Street",Yes,No,No,Yes,Free,193.0,3.0
+91,Chelsea Thai,3.0 star rating,4 reviews,$$,,['Thai'],Yes,"88 10th AveNew York, NY 10011",No,,Casual,No,Yes,Yes,Lunch,Yes,Yes,No,Average,No,Garage,Yes,No,No,No,Free,4.0,3.0
+92,Chin Chin Thai Kitchen,4.0 star rating,30 reviews,$,Under $10,['Thai'],Yes,"5717 Roosevelt AveWoodside, NY 11377",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,No,Yes,,No,30.0,4.0
+93,China House,5.0 star rating,2 reviews,$$,,"['Chinese', 'Thai']",,"2560 US 22Scotch Plains, NJ 07076",No,,,,,,,,Yes,,Average,,,Yes,,Yes,,,2.0,5.0
+94,China sun 2,3.5 star rating,3 reviews,$,Under $10,"['Thai', 'Chinese']",Yes,"1980 Victory BlvdSte 2Staten Island, NY 10314",No,,,Yes,No,Yes,,,,Yes,,No,Private Lot,Yes,No,,Yes,No,3.0,3.5
+95,China Thai Chinese Restaurant,3.5 star rating,4 reviews,$,,"['Thai', 'Chinese']",Yes,"867 Flatbush AveBrooklyn, NY 11226",No,,Casual,Yes,,Yes,,No,Yes,Yes,,No,,Yes,No,Yes,,,4.0,3.5
+96,China Wang Restaurant,3.0 star rating,3 reviews,$$,,"['Chinese', 'Japanese', 'Thai']",No,"221 W 230th StBronx, NY 10463",No,,Casual,Yes,No,Yes,,Yes,Yes,No,Average,No,,Yes,No,No,,,3.0,3.0
+97,Chok Dee Thai Kitchen,4.5 star rating,79 reviews,$$,,['Thai'],Yes,"561 Livingston StNorwood, NJ 07648",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",No,Yes,Yes,Quiet,No,Private Lot,Yes,Yes,Yes,,No,79.0,4.5
+98,Chop Shop II,4.0 star rating,115 reviews,$$,$11-30,"['Chinese', 'Thai', 'Asian Fusion']",Yes,"41 W 24th StNew York, NY 10010",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,115.0,4.0
+99,Chop Shop,3.5 star rating,179 reviews,$$,,"['Asian Fusion', 'Chinese', 'Thai']",Yes,"254 10th AveNew York, NY 10001",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,No,No,179.0,3.5
+100,Chopstick Express,2.5 star rating,31 reviews,$$,$11-30,"['Chinese', 'Thai', 'Malaysian']",Yes,"1734 Oak Tree RdEdison, NJ 08820",No,Casual,Casual,No,Yes,No,"Lunch, Dinner",No,Yes,Yes,Quiet,No,Private Lot,Yes,No,Yes,Yes,No,31.0,2.5
+101,Citrus Restaurant,4.0 star rating,101 reviews,$$,,"['Indian', 'Thai']",Yes,"555 Passaic AveWest Caldwell, NJ 07006",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,Free,101.0,4.0
+102,Clifton Thai,4.5 star rating,188 reviews,$$,,['Thai'],Yes,"239 Parker AveClifton, NJ 07011",,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,No,188.0,4.5
+103,Coco South East Asian Cuisine,3.5 star rating,167 reviews,$$,,"['Thai', 'Malaysian']",Yes,"8269 BroadwayElmhurst, NY 11373",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,167.0,3.5
+104,D & B Thai & Chinese Cuisine,2.5 star rating,8 reviews,$$,$11-30,['Thai'],Yes,"15828 Crossbay BlvdHoward Beach, NY 11414",,,Casual,,,,,Yes,Yes,No,,,,Yes,No,No,,,8.0,2.5
+105,D & Y Kitchen,4.0 star rating,15 reviews,$,,"['Thai', 'Chinese']",Yes,"1266 Peninsula BlvdHewlett, NY 11557",No,,Casual,No,,Yes,,No,Yes,No,,No,,Yes,No,,,No,15.0,4.0
+106,Dannee,4.0 star rating,43 reviews,$$,$11-30,['Thai'],Yes,"433 Dekalb AveBrooklyn, NY 11205",Beer & Wine Only,Hipster,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,Free,43.0,4.0
+107,DD Thai Cuisine,4.0 star rating,141 reviews,$$,$11-30,['Thai'],Yes,"184 W Passaic StRochelle Park, NJ 07662",No,Casual,Casual,No,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,No,141.0,4.0
+108,Dee Thai Restaurant,4.0 star rating,308 reviews,$$,$11-30,['Thai'],Yes,"46-17 Queens BlvdSunnyside, NY 11104",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,308.0,4.0
+109,Dek Sen,4.5 star rating,42 reviews,$$,,['Thai'],No,"8608 Whitney AveElmhurst, NY 11373",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner, Dessert",No,Yes,Yes,Average,No,Street,Yes,No,Yes,,No,42.0,4.5
+110,Don Muang Airport,5.0 star rating,4 reviews,,,"['Thai', 'Burgers', 'Chicken Wings']",Yes,"146 BroadwayBrooklyn, NY 11211",,,,,,,,Yes,No,,,,,,,,,,4.0,5.0
+111,Double Ai,4.0 star rating,92 reviews,$$,,"['Chinese', 'Japanese', 'Thai']",Yes,"107 Terhune DrWayne, NJ 07470",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,Yes,"Valet, Private Lot",Yes,Yes,Yes,Yes,Free,92.0,4.0
+112,Durian,4.0 star rating,48 reviews,$$,,['Thai'],Yes,"147 Chatsworth AveLarchmont, NY 10538",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,No,No,Average,Yes,Street,Yes,Yes,Yes,,Free,48.0,4.0
+113,East Garden Asian Cuisine,3.0 star rating,5 reviews,$,,"['Thai', 'Chinese']",No,"2072 Flatbush AveBrooklyn, NY 11234",No,,Casual,Yes,No,Yes,,No,Yes,No,,No,,Yes,No,No,Yes,No,5.0,3.0
+114,East Pacific Pan-Asian Bistro,3.5 star rating,140 reviews,$$,$11-30,"['Asian Fusion', 'Japanese', 'Thai']",Yes,"120 E 34th StNew York, NY 10016",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,140.0,3.5
+115,East Pacific Restaurant,3.5 star rating,100 reviews,$$,,"['Asian Fusion', 'Thai']",Yes,"2655 Richmond AveStaten Island, NY 10314",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,100.0,3.5
+116,East Village Thai,4.0 star rating,173 reviews,$$,,['Thai'],No,"32 E 7th StNew York, NY 10003",No,Divey,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,No,No,Quiet,No,Street,Yes,No,Yes,No,No,173.0,4.0
+117,Eim Khao Mun Kai Elmhurst,4.0 star rating,163 reviews,$,,"['Thai', 'Hainan']",No,"81-32 BroadwayElmhurst, NY 11373",No,Casual,Casual,No,No,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,Yes,,No,163.0,4.0
+118,Empire,2.0 star rating,17 reviews,$$,,"['Sushi Bars', 'Thai', 'Chinese']",Yes,"8 Murray StManhattan, NY 10007",No,,Casual,,,Yes,,Yes,Yes,No,Average,No,,Yes,No,Yes,,,17.0,2.0
+119,Enthaice Thai Kitchen,4.0 star rating,506 reviews,$$,,['Thai'],Yes,"33-20 31st AveAstoria, NY 11106",Full Bar,Intimate,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,No,Yes,Yes,No,506.0,4.0
+120,Enthaice,3.5 star rating,197 reviews,$$,$11-30,['Thai'],Yes,"1598 3rd AveNew York, NY 10128",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,197.0,3.5
+121,Erawan Thai Cuisine,3.5 star rating,241 reviews,$$,,['Thai'],Yes,"4231 Bell BlvdBayside, NY 11361",Full Bar,Romantic,Casual,Yes,Yes,No,Dinner,Yes,No,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,241.0,3.5
+122,Erb Thai,2.5 star rating,110 reviews,$$,$11-30,['Thai'],Yes,"681 Manhattan AveBrooklyn, NY 11222",No,,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,Free,110.0,2.5
+123,Esan Thai Food,4.0 star rating,48 reviews,$$,$11-30,['Thai'],Yes,"51-20 Skillman AveWoodside, NY 11377",No,Casual,Casual,Yes,,Yes,"Lunch, Dinner",No,Yes,No,Quiet,No,Street,Yes,No,Yes,,No,48.0,4.0
+124,Esanation,3.5 star rating,114 reviews,$$,$11-30,['Thai'],Yes,"750 9th AveNew York, NY 10019",Beer & Wine Only,Trendy,Casual,Yes,No,Yes,Dinner,Yes,No,No,Average,No,,Yes,Yes,Yes,,No,114.0,3.5
+125,Fish Cheeks,4.0 star rating,45 reviews,$$$,,"['Seafood', 'Thai']",Yes,"55 Bond StNew York, NY 10012",Full Bar,Casual,Casual,No,No,No,Dinner,Yes,No,No,Average,No,,Yes,Yes,Yes,,No,45.0,4.0
+126,Five Stars Thai Cuisine,4.0 star rating,264 reviews,$$,$11-30,"['Thai', 'Vegetarian']",Yes,"324 29th StUnion City, NJ 07087",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,264.0,4.0
+127,Food Idea,,,,,['Thai'],,"681 Manhattan AveBrooklyn, NY 11222",,,,,,,,,,,,,,,,,,,,
+128,Forest Thai Cuisine,3.5 star rating,89 reviews,$$,,['Thai'],Yes,"1211 Forest AveStaten Island, NY 10310",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,No,89.0,3.5
+129,Fortune House,3.0 star rating,74 reviews,$$,,"['Chinese', 'Thai']",Yes,"82 Henry StBrooklyn, NY 11201",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,No,No,74.0,3.0
+130,Frankly Thai,4.0 star rating,271 reviews,$$,,['Thai'],Yes,"959 Hempstead TpkeFranklin Square, NY 11010",No,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,271.0,4.0
+131,Fulton Thai,3.0 star rating,87 reviews,$,,['Thai'],Yes,"848 Fulton StBrooklyn, NY 11238",Beer & Wine Only,Hipster,Casual,Yes,Yes,Yes,Dinner,No,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,No,87.0,3.0
+132,Galanga,3.5 star rating,380 reviews,$$,$11-30,['Thai'],No,"149 W 4th StNew York, NY 10012",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,380.0,3.5
+133,Galangal,2.5 star rating,82 reviews,$$,,['Thai'],Yes,"630 Old Country RdGarden City, NY 11530",No,Casual,Casual,No,No,No,,Yes,Yes,No,Average,Yes,"Valet, Garage",Yes,No,No,Yes,Free,82.0,2.5
+134,Gan Asia,2.0 star rating,33 reviews,$$,$11-30,"['Chinese', 'Kosher', 'Thai']",Yes,"691 Amsterdam AveNew York, NY 10025",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,No,No,Quiet,No,,Yes,No,No,Yes,No,33.0,2.0
+135,Gaw Gai,3.5 star rating,134 reviews,$,,['Thai'],No,"23-06 Jackson AveLong Island City, NY 11101",No,Casual,Casual,Yes,Yes,Yes,Lunch,No,No,No,Average,No,Street,Yes,No,No,,No,134.0,3.5
+136,Ghang Thai Kitchen,3.5 star rating,149 reviews,$$,$11-30,['Thai'],Yes,"229 Court StBrooklyn, NY 11201",Full Bar,Trendy,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,,No,149.0,3.5
+137,Ginger and Lemongrass,4.0 star rating,131 reviews,$$,,"['Vietnamese', 'Thai', 'Coffee & Tea']",Yes,"1008 Clintonville StWhitestone, NY 11357",No,"Hipster, Casual, Trendy",Casual,No,No,No,"Brunch, Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,Yes,,No,131.0,4.0
+138,Glow Thai and Japanese,3.5 star rating,119 reviews,$$,$11-30,"['Japanese', 'Thai']",Yes,"214 Jericho TpkeFloral Park, NY 11001",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,No,119.0,3.5
+139,Glow Thai,3.5 star rating,176 reviews,$$,,"['Thai', 'Cocktail Bars']",Yes,"7107 3rd AveBrooklyn, NY 11209",Full Bar,Intimate,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,Free,176.0,3.5
+140,Go Go Thai,3.5 star rating,228 reviews,$$,$11-30,['Thai'],Yes,"144 W 19th StNew York, NY 10011",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Dinner,No,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,No,228.0,3.5
+141,Golden Dragon,3.5 star rating,61 reviews,$,Under $10,"['Chinese', 'Thai']",No,"3406 31st AveAstoria, NY 11106",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,No,No,Paid,61.0,3.5
+142,Golden Way,3.5 star rating,26 reviews,$,Under $10,"['Chinese', 'Thai']",Yes,"13309 Cross Bay BlvdOzone Park, NY 11417",No,,Casual,No,Yes,Yes,Lunch,Yes,Yes,No,Quiet,No,,Yes,No,Yes,,No,26.0,3.5
+143,Gong Modern Thai Dining,4.0 star rating,173 reviews,$$,,['Thai'],Yes,"173 E 99th StNew York, NY 10029",No,,Casual,Yes,No,Yes,"Lunch, Dinner",No,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,173.0,4.0
+144,Green Lake Restaurant,3.0 star rating,38 reviews,$,Under $10,"['Chinese', 'Thai']",Yes,"795 Flatbush AveBrooklyn, NY 11226",No,Divey,Casual,Yes,No,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,No,No,Yes,No,38.0,3.0
+145,Green Leaf,3.5 star rating,34 reviews,$,,"['Thai', 'Szechuan']",No,"72-60 Metropolitan AveMiddle Village, NY 11379",No,,Casual,Yes,Yes,Yes,,No,Yes,No,Quiet,No,,Yes,No,Yes,,,34.0,3.5
+146,Harvest Chinese & Thai Cuisine,3.5 star rating,49 reviews,$,,"['Thai', 'Chinese']",Yes,"1502 1st AveNew York, NY 10075",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,Yes,No,Average,No,,Yes,No,No,,No,49.0,3.5
+147,Herbs Thai Bistro,4.0 star rating,77 reviews,$$,$11-30,['Thai'],Yes,"251 E 45th StSte 1New York, NY 10017",No,Casual,Casual,No,Yes,Yes,Lunch,No,Yes,No,Average,No,Street,Yes,No,No,Yes,Free,77.0,4.0
+148,Hi Noodle Etc,3.5 star rating,73 reviews,$$,$11-30,"['Thai', 'Noodles']",Yes,"333 Graham AveBrooklyn, NY 11211",Full Bar,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,Free,73.0,3.5
+149,Hive Thai Cooking,3.0 star rating,54 reviews,$$,,['Thai'],Yes,"71-60 Yellowstone BlvdNew York, NY 11375",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,No,Yes,No,54.0,3.0
+150,Honey’s Thai Pavilion,3.5 star rating,174 reviews,$$,$11-30,['Thai'],Yes,"3036 Westchester AveBronx, NY 10461",Beer & Wine Only,Casual,Casual,No,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,174.0,3.5
+151,Hot Ginger Japanese Asian Fusion,4.0 star rating,140 reviews,$$,$11-30,"['Asian Fusion', 'Japanese', 'Thai']",Yes,"73-32 Bell BlvdOakland Gardens, NY 11364",Beer & Wine Only,Intimate,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,"Street, Private Lot",Yes,Yes,Yes,Yes,Free,140.0,4.0
+152,House of Thai,4.0 star rating,129 reviews,$$,,['Thai'],Yes,"2501 40th AveLong Island City, NY 11101",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,129.0,4.0
+153,Hunan Wok,3.5 star rating,30 reviews,$,Under $10,"['Chinese', 'Thai']",Yes,"186 Columbia TpkeFlorham Park, NJ 07932",No,Casual,Casual,No,,Yes,Lunch,No,Yes,No,Quiet,No,Private Lot,Yes,No,Yes,Yes,No,30.0,3.5
+154,Hungry?,5.0 star rating,23 reviews,$,Under $10,"['Cajun/Creole', 'Thai', 'American (Traditional)']",Yes,"77 Norman AveStore 1Brooklyn, NY 11222",No,,Casual,No,No,Yes,,No,Yes,No,Quiet,No,Street,Yes,No,No,Yes,No,23.0,5.0
+155,I Am Thai Restaurant,4.0 star rating,219 reviews,$$,,"['Thai', 'Seafood', 'Vegan']",Yes,"49-08 43rd AveWoodside, NY 11377",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,Yes,Average,No,Street,Yes,No,No,Yes,No,219.0,4.0
+156,Ichiban 18 Asian Cuisine,3.5 star rating,60 reviews,$$,$11-30,"['Japanese', 'Sushi Bars', 'Thai']",Yes,"1020 Rte 18East Brunswick, NJ 08816",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,60.0,3.5
+157,Imocha,4.5 star rating,154 reviews,$$,,['Thai'],Yes,"970 McBride AveWoodland Park, NJ 07424",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,"Street, Private Lot",Yes,Yes,Yes,Yes,Free,154.0,4.5
+158,Inaka Sushi,4.5 star rating,104 reviews,$$,$11-30,"['Japanese', 'Thai', 'Sushi Bars']",Yes,"8318 3rd AveBrooklyn, NY 11209",Full Bar,Romantic,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,Free,104.0,4.5
+159,Island Thai Street Food,4.0 star rating,1 review,,,"['Thai', 'Food Stands']",,"New York, NY 10022",,,,,,,,,,,,,,,,,,,1.0,4.0
+160,Izu,3.0 star rating,3 reviews,$$,,"['Japanese', 'Thai']",Yes,"9 E 13th StNew York, NY 10003",,,,,,,,,,,,,,,,,,,3.0,3.0
+161,Jai Dee Restaurant,3.5 star rating,63 reviews,$$,$11-30,['Thai'],Yes,"420 7th AveBrooklyn, NY 11215",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,63.0,3.5
+162,Jaidee Thai Food,3.5 star rating,8 reviews,,,['Thai'],Yes,"673 Main StHackensack, NJ 07601",No,,,,Yes,Yes,,,,Yes,Quiet,,,Yes,,Yes,,,8.0,3.5
+163,Jaiya Thai,3.5 star rating,593 reviews,$$,,['Thai'],Yes,"396 3rd AveNew York, NY 10016",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,593.0,3.5
+164,Jaiya,3.5 star rating,209 reviews,$$,,"['Thai', 'Asian Fusion']",Yes,"1553 2nd AveNew York, NY 10075",Full Bar,Trendy,Casual,Yes,No,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,,No,209.0,3.5
+165,Jeaw Hon New York,4.0 star rating,5 reviews,$$,,"['Thai', 'Hot Pot']",No,"71-30 Roosevelt AveQueens, NY 11372",No,,Casual,Yes,,No,,Yes,Yes,Yes,Average,No,,No,No,,,,5.0,4.0
+166,Jin Sushi & Thai,3.5 star rating,34 reviews,$$,$11-30,"['Japanese', 'Thai', 'Sushi Bars']",Yes,"1708 E 16th StBrooklyn, NY 11229",No,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,No,Yes,,No,34.0,3.5
+167,Joey Thai,3.5 star rating,90 reviews,$$,$11-30,['Thai'],Yes,"338 Bloomfield AveMontclair, NJ 07042",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,No,90.0,3.5
+168,Joy Hing,3.0 star rating,6 reviews,$,,"['Chinese', 'Thai']",,"2449 Jericho TpkeSte ANew Hyde Park, NY 11040",No,,Casual,,,,,Yes,Yes,,,No,,,No,No,Yes,,6.0,3.0
+169,Joya,4.0 star rating,1061 reviews,$$,,['Thai'],Yes,"215 Ct StBrooklyn, NY 11201",Full Bar,Trendy,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,No,Yes,Yes,No,1061.0,4.0
+170,Just Salad,2.5 star rating,5 reviews,$$,,"['Thai', 'Mediterranean', 'Asian Fusion']",Yes,"1306 1st AveManhattan, NY 10021",,,Casual,,,Yes,,No,Yes,No,,Yes,,Yes,No,,,,5.0,2.5
+171,Kare Thai,3.5 star rating,75 reviews,$$,$11-30,['Thai'],Yes,"752 10th AveNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Lunch,Yes,Yes,No,Average,No,,Yes,Yes,Yes,,No,75.0,3.5
+172,Kati Thai Cuisine,3.5 star rating,184 reviews,$$,$11-30,['Thai'],Yes,"347 E 14th StNew York, NY 10003",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,184.0,3.5
+173,Khao Gang,4.5 star rating,2 reviews,,,['Thai'],,"Woodside Ave 77 StGrymes Hill, NY 10304",,,,,,,,,,,,,,,,,,,2.0,4.5
+174,Khao Kang,4.0 star rating,134 reviews,$,,['Thai'],No,"7620 Woodside AveElmhurst, NY 11373",No,Casual,Casual,No,Yes,No,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,No,,No,134.0,4.0
+175,Khao Man Gai NY,4.0 star rating,34 reviews,$,,['Thai'],Yes,"31-00 47th AveLong Island City, NY 11101",No,Casual,Casual,Yes,Yes,No,Lunch,Yes,Yes,No,Average,No,,Yes,No,No,,No,34.0,4.0
+176,Khao Sarn,3.5 star rating,230 reviews,$$,$11-30,['Thai'],No,"338 Bedford AveBrooklyn, NY 11211",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,230.0,3.5
+177,Khao Thai Kitchen,3.5 star rating,110 reviews,$$,$11-30,"['Thai', 'Asian Fusion']",Yes,"235 Sullivan StNew York, NY 10012",No,Casual,Casual,Yes,No,Yes,Lunch,Yes,Yes,No,Average,No,Garage,Yes,Yes,Yes,Yes,Free,110.0,3.5
+178,Khao Tip Thai Cuisine,4.0 star rating,100 reviews,$$,,['Thai'],Yes,"2111 Hamburg TpkeWayne, NJ 07470",No,Casual,Casual,Yes,No,No,Lunch,Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,100.0,4.0
+179,Khe-Yo,4.0 star rating,430 reviews,$$$,$31-60,"['Thai', 'Laotian', 'Vietnamese']",Yes,"157 Duane StNew York, NY 10013",Full Bar,Trendy,Casual,Yes,Yes,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,,Free,430.0,4.0
+180,Khun Thai Restaurant,3.5 star rating,86 reviews,$$,,['Thai'],Yes,"504 Millburn AveMillburn, NJ 07078",No,Casual,Casual,Yes,Yes,No,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,86.0,3.5
+181,Kiin Thai Eatery,3.5 star rating,166 reviews,$$,$11-30,['Thai'],Yes,"36 E 8th StNew York, NY 10003",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,Free,166.0,3.5
+182,King Taste Restaurant,3.0 star rating,10 reviews,$,Under $10,"['Japanese', 'Thai', 'Chinese']",Yes,"352 Main StOrange, NJ 07050",No,,Casual,No,Yes,Yes,,Yes,Yes,No,Quiet,No,,Yes,No,No,,No,10.0,3.0
+183,Kitchen 79,4.5 star rating,320 reviews,$$,$11-30,['Thai'],Yes,"37-70 79th StJackson Heights, NY 11372",Beer & Wine Only,Trendy,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,No,320.0,4.5
+184,Kitchen Thai,3.0 star rating,10 reviews,$$,,['Thai'],Yes,"271 Prospect Park WBrooklyn, NY 11215",,,Casual,,,,,No,Yes,,,,,,,,,,10.0,3.0
+185,Klong,3.5 star rating,852 reviews,$$,$11-30,['Thai'],Yes,"7 St Marks PlNew York, NY 10003",Full Bar,Trendy,Casual,Yes,No,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,No,No,852.0,3.5
+186,Koi Sushi & Hibachi,3.5 star rating,37 reviews,$$,,"['Sushi Bars', 'Thai', 'Asian Fusion']",Yes,"2780 NJ-35Hazlet, NJ 07730",No,,Casual,No,Yes,No,,Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,,,37.0,3.5
+187,Kunya Siam,4.0 star rating,85 reviews,$$,,['Thai'],Yes,"99 1st AveAtlantic Highlands, NJ 07716",No,Casual,Casual,Yes,No,No,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,85.0,4.0
+188,Kyoto Sushi 8,4.5 star rating,19 reviews,$$,,"['Japanese', 'Thai', 'Sushi Bars']",Yes,"537C Inman AveColonia, NJ 07067",Beer & Wine Only,,Casual,No,,No,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,,Yes,Yes,Yes,Yes,,19.0,4.5
+189,Lan Larb Soho,3.5 star rating,134 reviews,$$,$11-30,['Thai'],Yes,"227 Centre StNew York, NY 10013",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,Free,134.0,3.5
+190,Lan Larb,4.0 star rating,139 reviews,$$,$11-30,['Thai'],Yes,"637 2nd AveNew York, NY 10016",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,139.0,4.0
+191,Land,4.0 star rating,850 reviews,$$,,['Thai'],Yes,"450 Amsterdam AveNew York, NY 10024",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,No,No,No,Average,Yes,Street,Yes,No,Yes,No,No,850.0,4.0
+192,Lantern Thai,3.5 star rating,299 reviews,$$,,['Thai'],Yes,"311 2nd AveNew York, NY 10003",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,299.0,3.5
+193,Lantern,3.5 star rating,354 reviews,$$,,['Thai'],Yes,"101 Montague StBrooklyn, NY 11201",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,No,354.0,3.5
+194,Larb Ubol,4.0 star rating,502 reviews,$$,,['Thai'],Yes,"480 9th AveNew York, NY 10018",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,502.0,4.0
+195,Laut,3.5 star rating,826 reviews,$$,,"['Thai', 'Malaysian', 'Asian Fusion']",Yes,"15 E 17th StNew York, NY 10003",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,826.0,3.5
+196,Laverne,4.0 star rating,82 reviews,$$,$11-30,"['Japanese', 'Thai']",Yes,"9 Cutter Mill RdGreat Neck, NY 11021",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,Yes,Street,Yes,Yes,Yes,,Free,82.0,4.0
+197,Lemon Grass Thai & Chinese,3.5 star rating,46 reviews,$$,$11-30,"['Thai', 'Chinese']",Yes,"2710 Long Beach RdOceanside, NY 11572",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,,Yes,Yes,Yes,,No,46.0,3.5
+198,Lemon Leaf Thai Restaurant,3.0 star rating,101 reviews,$$,,['Thai'],Yes,"197 Mineola BlvdMineola, NY 11501",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,No,101.0,3.0
+199,Lemongrass Grill,,,,,['Thai'],,"9 E 13th StNew York, NY 10003",,,,,,,,,,,,,,,,,,,,
+200,Leng Thai,3.5 star rating,376 reviews,$$,$11-30,"['Thai', 'Asian Fusion']",Yes,"3309 BroadwayAstoria, NY 11106",Beer & Wine Only,Trendy,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,No,Yes,Yes,No,376.0,3.5
+201,Lily Thai,3.5 star rating,168 reviews,$$,$11-30,['Thai'],Yes,"615 Grand StBrooklyn, NY 11211",Beer & Wine Only,Casual,Casual,Yes,,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,No,168.0,3.5
+202,Lime Leaf,3.0 star rating,189 reviews,$$,$11-30,"['Thai', 'American (New)']",Yes,"128 W 72nd StNew York, NY 10023",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,189.0,3.0
+203,Lin?s Garden Chinese & Thai,1.0 star rating,1 review,,,"['Chinese', 'Thai']",,"8523 3rd AveBrooklyn, NY 11209",,,,,,,,,,,,,,,,,,,1.0,1.0
+204,Little Basil,3.5 star rating,347 reviews,$$,$11-30,['Thai'],Yes,"153 E 26th StNew York, NY 10010",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,347.0,3.5
+205,Little Thai Kitchen - Rye,3.5 star rating,9 reviews,$$$,$31-60,['Thai'],Yes,"2 Purchase StRye, NY 10580",,,Casual,,,,,Yes,Yes,Yes,Quiet,No,,Yes,Yes,Yes,,,9.0,3.5
+206,Little Thai Kitchen,3.0 star rating,85 reviews,$$,,['Thai'],Yes,"13 Popham RdScarsdale, NY 10583",No,Casual,Casual,Yes,Yes,Yes,Dinner,No,Yes,No,Average,No,Street,Yes,No,Yes,,No,85.0,3.0
+207,Liu Garden,3.0 star rating,16 reviews,$,Under $10,"['Thai', 'Chinese']",Yes,"560 Wilson AveBrooklyn, NY 11207",No,,Casual,,No,Yes,,Yes,Yes,No,Quiet,No,,Yes,No,No,,No,16.0,3.0
+208,Long Grain Thai & Japanese,3.0 star rating,11 reviews,,,"['Japanese', 'Thai']",,"710 Amsterdam AveNew York, NY 10025",,,,,,Yes,,Yes,Yes,,,,,Yes,No,,,,11.0,3.0
+209,Look By Plant Love House,4.0 star rating,179 reviews,$$,$11-30,"['Thai', 'Desserts']",No,"622 Washington AveBrooklyn, NY 11238",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner, Dessert",Yes,Yes,No,Average,No,Street,Yes,No,Yes,,No,179.0,4.0
+210,Loong Xin Asian cuisine,4.0 star rating,8 reviews,$,,"['Japanese', 'Thai', 'Chinese']",Yes,"670 E 233rd StEast Bronx, NY 10466",No,,Casual,No,Yes,Yes,,No,Yes,No,Quiet,No,,Yes,No,No,,No,8.0,4.0
+211,Lotus Thai Cuisine,4.0 star rating,174 reviews,$$,$11-30,['Thai'],Yes,"7007 Park AveGuttenberg, NJ 07093",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,Free,174.0,4.0
+212,Love Mamak,4.0 star rating,2104 reviews,$$,$11-30,"['Thai', 'Malaysian', 'Vietnamese']",Yes,"174 2nd AveNew York, NY 10003",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,Free,2104.0,4.0
+213,Lovely Day,3.5 star rating,262 reviews,$$,,"['Thai', 'Breakfast & Brunch', 'Irish']",Yes,"196 Elizabeth StNew York, NY 10012",Full Bar,Hipster,Casual,Yes,No,Yes,Lunch,No,No,No,Average,No,Street,Yes,No,Yes,Yes,No,262.0,3.5
+214,Luck Thai,3.5 star rating,88 reviews,$$,$11-30,['Thai'],Yes,"386 5th AveBrooklyn, NY 11215",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,88.0,3.5
+215,Lucky Thai BBQ,3.5 star rating,35 reviews,$$,$11-30,"['Thai', 'Barbeque']",Yes,"673 Main StHackensack, NJ 07601",No,,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,Yes,Average,No,,Yes,No,Yes,,Free,35.0,3.5
+216,Luckyim Thai truck,4.0 star rating,28 reviews,$,,"['Food Trucks', 'Thai']",No,"46th St & 6th AveNew York, NY 10017",No,Casual,Casual,Yes,No,No,Lunch,No,Yes,No,Very Loud,No,,Yes,No,No,,No,28.0,4.0
+217,Luckyim Thai,4.0 star rating,96 reviews,$,,"['Food Trucks', 'Thai']",No,"10 Hanover SqNew York, NY 10005",No,Casual,Casual,No,No,No,Lunch,No,Yes,No,Quiet,No,Street,Yes,No,No,,No,96.0,4.0
+218,Lui’s Thai Food,4.0 star rating,146 reviews,$$,$11-30,['Thai'],Yes,"128 E 4th StNew York, NY 10003",No,Intimate,Casual,Yes,Yes,Yes,Dinner,No,No,No,Quiet,No,Street,Yes,No,No,No,No,146.0,4.0
+219,Luscious Thai,3.5 star rating,183 reviews,$$,$11-30,['Thai'],Yes,"1099 1st AveNew York, NY 10065",Full Bar,Intimate,Casual,Yes,Yes,Yes,Dinner,Yes,No,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,183.0,3.5
+220,M-Thai,3.5 star rating,172 reviews,$$,$11-30,"['Thai', 'Vietnamese']",Yes,"200 8th AveNew York, NY 10011",Full Bar,Trendy,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,172.0,3.5
+221,M.C. Thai,4.0 star rating,6 reviews,,,['Thai'],,"600 Bloomfield AveMontclair, NJ 07042",,,,,,,,,No,,,,,,Yes,,,,6.0,4.0
+222,Mahachai,3.0 star rating,15 reviews,$$,,['Thai'],Yes,"268 Prospect Park WBrooklyn, NY 11215",,,Casual,Yes,,Yes,,Yes,Yes,No,,Yes,,Yes,,,,Free,15.0,3.0
+223,Malii,4.5 star rating,78 reviews,$$,,['Thai'],Yes,"2028 2nd AveNew York, NY 10029",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,78.0,4.5
+224,Mamu Thai Noodle Truck,4.0 star rating,33 reviews,$,,"['Thai', 'Food Trucks', 'Noodles']",No,"Brooklyn, NY",,,,No,No,,,,,No,,,Street,Yes,,,,,33.0,4.0
+225,Mamu Thai,4.0 star rating,71 reviews,$$,$11-30,['Thai'],Yes,"3602 36th AveAstoria, NY 11106",No,Casual,Casual,Yes,Yes,Yes,Lunch,No,Yes,No,Average,No,Street,Yes,No,Yes,,No,71.0,4.0
+226,Maple Thai & Chinese Cuisine,,,,,"['Chinese', 'Thai']",,"251 W 72nd StManhattan, NY 10023",,,,,,,,,,,,,,,,,,,,
+227,Mee Thai,3.5 star rating,132 reviews,$$,,['Thai'],Yes,"180 5th AveBrooklyn, NY 11217",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,132.0,3.5
+228,Mekong Thai & Vietnamese Restaurant,3.0 star rating,277 reviews,$,,"['Thai', 'Vietnamese']",No,"15632 Northern BlvdFlushing, NY 11354",No,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,No,Yes,Yes,No,277.0,3.0
+229,Mini Thai Cafe,3.5 star rating,116 reviews,$$,$11-30,"['Thai', 'Cafes']",Yes,"105 Ave ANew York, NY 10009",Full Bar,Casual,Casual,Yes,,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,116.0,3.5
+230,Mint,2.5 star rating,7 reviews,,,['Thai'],,"WestburyWestbury, NY 11590",,,,,,Yes,,Yes,Yes,,,,,,Yes,,,,7.0,2.5
+231,Mint’s Thai Kitchen,3.5 star rating,176 reviews,$$,$11-30,['Thai'],Yes,"70-15A Austin StForest Hills, NY 11375",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,Free,176.0,3.5
+232,Miyabi Asian Fusion,4.5 star rating,187 reviews,$$,$11-30,"['Sushi Bars', 'Japanese', 'Thai']",Yes,"1348 Forest AveStaten Island, NY 10302",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,"Street, Private Lot",Yes,Yes,Yes,Yes,Free,187.0,4.5
+233,Miyabi III,4.0 star rating,36 reviews,$$,$11-30,"['Sushi Bars', 'Thai', 'Malaysian']",Yes,"82 Hillside AveWilliston Park, NY 11596",Beer & Wine Only,Trendy,Casual,No,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,36.0,4.0
+234,Momotaro,3.0 star rating,29 reviews,$$,,"['Japanese', 'Thai']",Yes,"6916 18th aveBensonhurst, NY 11204",No,,Casual,Yes,Yes,Yes,,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,Free,29.0,3.0
+235,Moon Room,,,,,"['Thai', 'Dance Clubs', 'Venues & Event Spaces']",Yes,"39 Little W 12th StManhattan, NY 10014",Full Bar,,,,Yes,Yes,,,,,,Yes,Street,No,Yes,Yes,No,No,,
+236,More Express,3.5 star rating,238 reviews,$$,$11-30,"['Sushi Bars', 'Thai']",Yes,"281 Grove StJersey City, NJ 07302",No,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,238.0,3.5
+237,Morris Thai Cuisine,3.5 star rating,83 reviews,$$,,['Thai'],Yes,"1975 Morris AveUnion, NJ 07083",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,83.0,3.5
+238,Mr Thai Restaurant,4.5 star rating,15 reviews,$,,['Thai'],Yes,"378 Metropolitan AveBrooklyn, NY 11211",,,Casual,Yes,,Yes,,No,Yes,No,,No,,Yes,Yes,,,,15.0,4.5
+239,Myrtle Thai,3.0 star rating,109 reviews,$$,$11-30,['Thai'],Yes,"438 Myrtle AveBrooklyn, NY 11205",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,109.0,3.0
+240,MyThai Cafe,3.5 star rating,267 reviews,$$,$11-30,['Thai'],Yes,"7803 3rd AveBrooklyn, NY 11209",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,,Yes,Yes,Yes,Yes,No,267.0,3.5
+241,Mythai Resturant,,,,,['Thai'],,"4th AveNew York, NY 10003",,,,,,,,,,,,,,,,,,,,
+242,N Thai Palace,4.0 star rating,225 reviews,$$,,"['Thai', 'Halal', 'Asian Fusion']",Yes,"1020 Rt 18East Brunswick, NJ 08816",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,225.0,4.0
+243,Nagoya,3.5 star rating,38 reviews,$$,$11-30,"['Sushi Bars', 'Thai']",Yes,"25-73 Francis Lewis BlvdFlushing, NY 11358",No,Casual,Casual,No,No,Yes,Lunch,Yes,Yes,Yes,Quiet,No,Street,Yes,No,Yes,,No,38.0,3.5
+244,Nanking Restaurant Jersey City,2.0 star rating,290 reviews,$$,$11-30,"['Chinese', 'Indian', 'Thai']",Yes,"101 Hudson StJersey City, NJ 07302",Full Bar,Trendy,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,290.0,2.0
+245,Nanking Restaurant,3.0 star rating,190 reviews,$$,,"['Chinese', 'Thai', 'Indian']",Yes,"2056 Hillside AveNew Hyde Park, NY 11040",Full Bar,Classy,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,190.0,3.0
+246,Nanking,4.0 star rating,187 reviews,$$,$11-30,"['Indian', 'Thai', 'Chinese']",Yes,"134-07 Rockaway BlvdSouth Ozone Park, NY 11420",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,Free,187.0,4.0
+247,National,3.5 star rating,324 reviews,$$,,['Thai'],No,"723 Fulton StBrooklyn, NY 11217",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,No,Yes,No,No,324.0,3.5
+248,New Peter’s Kitchen,3.5 star rating,54 reviews,$,,"['Japanese', 'Thai', 'Chinese']",Yes,"14909 Union TpkeFlushing, NY 11367",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,No,No,Yes,No,54.0,3.5
+249,Ngam,4.0 star rating,1014 reviews,$$,,"['Thai', 'Cooking Schools', 'Comfort Food']",Yes,"99 3rd AveNew York, NY 10003",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,1014.0,4.0
+250,Nick?s Kitchen,3.0 star rating,2 reviews,,,['Thai'],,"447 7th AveBrooklyn, NY 11226",,,,,,,,,,,,,,,,,,,2.0,3.0
+251,Nikko,3.5 star rating,244 reviews,$$,$11-30,"['Asian Fusion', 'Thai', 'Sushi Bars']",Yes,"1280 Amsterdam AveNew York, NY 10027",Full Bar,Trendy,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,No,244.0,3.5
+252,Nine Thai,2.5 star rating,36 reviews,$$,,['Thai'],Yes,"110-70 Queens BlvdForest Hills, NY 11375",Beer & Wine Only,Casual,Casual,Yes,,Yes,,No,No,Yes,Average,No,,Yes,Yes,Yes,,No,36.0,2.5
+253,Nine-D,3.5 star rating,107 reviews,$$,,['Thai'],Yes,"462 Court StBrooklyn, NY 11231",Beer & Wine Only,,Casual,Yes,,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,,107.0,3.5
+254,No 2 Panda Garden,2.5 star rating,4 reviews,$,,"['Chinese', 'Thai']",Yes,"6416 11th AveBrooklyn, NY 11219",No,,,,,Yes,,Yes,Yes,,,No,,Yes,No,No,Yes,,4.0,2.5
+255,Noodies,4.0 star rating,349 reviews,$$,,['Thai'],Yes,"830 9th AveNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,Yes,No,Free,349.0,4.0
+256,Noodle Bar,3.5 star rating,315 reviews,$$,$11-30,"['Asian Fusion', 'Thai', 'Noodles']",No,"26 Carmine StNew York, NY 10014",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,No,No,Average,Yes,Street,Yes,No,Yes,No,No,315.0,3.5
+257,Noodle Den,3.5 star rating,48 reviews,$$,,"['Thai', 'Noodles']",Yes,"435 Park Ave SNew York, NY 10016",Full Bar,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Average,No,,Yes,Yes,Yes,,No,48.0,3.5
+258,Noodlefan,3.5 star rating,107 reviews,$,,['Thai'],Yes,"1029 Stuyvesant AveUnion, NJ 07083",No,,Casual,No,Yes,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,Free,107.0,3.5
+259,Note Thai,2.5 star rating,106 reviews,$$,,['Thai'],Yes,"279 Bushwick AveBrooklyn, NY 11206",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,No,No,Quiet,No,Street,Yes,No,No,No,No,106.0,2.5
+260,Number One Chinese Restaurant,3.5 star rating,9 reviews,$,,"['Chinese', 'Seafood', 'Thai']",Yes,"6514 Park AveWest New York, NJ 07093",No,,Casual,,No,Yes,,No,Yes,Yes,Quiet,No,,Yes,No,No,,No,9.0,3.5
+261,Nur Thai,4.0 star rating,235 reviews,$$,,"['Thai', 'Halal', 'Chinese']",Yes,"63-32 Woodhaven BlvdRego Park, NY 11374",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner, Dessert",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,Free,235.0,4.0
+262,Nusara Thai Kitchen,4.0 star rating,181 reviews,$$,$11-30,['Thai'],No,"8280 BroadwayElmhurst, NY 11373",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,181.0,4.0
+263,NY Thai Grill & Sushi Bar,2.5 star rating,92 reviews,$$,$11-30,"['Sushi Bars', 'Thai']",Yes,"137 E 45th StNew York, NY 10017",Full Bar,,Casual,Yes,No,Yes,Lunch,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,92.0,2.5
+264,Obao,3.5 star rating,563 reviews,$$,$11-30,"['Thai', 'Vietnamese']",Yes,"222 E 53rd StNew York, NY 10022",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,563.0,3.5
+265,Ocean Dragon,2.5 star rating,50 reviews,$,,"['Chinese', 'Thai']",Yes,"877 10th AveNew York, NY 10019",No,Casual,Casual,Yes,,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,No,No,50.0,2.5
+266,Okinawa Sushi & Grill,4.0 star rating,164 reviews,$$,$11-30,"['Japanese', 'Sushi Bars', 'Thai']",Yes,"400 Newark StSte 8Hoboken, NJ 07030",No,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,No,No,164.0,4.0
+267,One More Thai,3.5 star rating,158 reviews,$$,$11-30,['Thai'],Yes,"6 Clinton StNew York, NY 10002",Beer & Wine Only,Casual,Casual,No,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,No,Free,158.0,3.5
+268,One Thai Chef,3.0 star rating,132 reviews,$$,,"['Thai', 'Halal']",Yes,"339 W 44th StNew York, NY 10036",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Quiet,Yes,Street,Yes,Yes,Yes,No,Free,132.0,3.0
+269,Opai Thai,3.5 star rating,190 reviews,$$,$11-30,['Thai'],Yes,"722 Amsterdam AveNew York, NY 10025",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,,No,190.0,3.5
+270,OTT Authentic Thai Cuisine,3.5 star rating,111 reviews,$$,,['Thai'],Yes,"970 Manhattan AveBrooklyn, NY 11222",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,No,111.0,3.5
+271,Pa De Thai Restaurant,3.5 star rating,179 reviews,$$,,['Thai'],Yes,"264 Old River RdEdgewater, NJ 07020",No,Casual,Casual,No,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,179.0,3.5
+272,Pa Pa Thai Cuisine,1.0 star rating,1 review,,,['Thai'],Yes,"1069 1st AveNew York, NY 10022",,,,,,,,Yes,,,,,,Yes,Yes,,,,1.0,1.0
+273,Pad Thai Noodle Lounge,3.5 star rating,236 reviews,$$,$11-30,"['Thai', 'Noodles']",Yes,"114 8th AveNew York, NY 10011",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,236.0,3.5
+274,Pad Thai,3.0 star rating,128 reviews,$$,$11-30,"['Thai', 'Japanese']",Yes,"409 8th AveNew York, NY 10001",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,128.0,3.0
+275,Pam Real Thai Food,3.5 star rating,557 reviews,$$,$11-30,['Thai'],No,"404 W 49th StNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,557.0,3.5
+276,Pandan Asian Cuisine & Delicacies,4.0 star rating,92 reviews,$$,,"['Asian Fusion', 'Filipino', 'Thai']",Yes,"406 Broad StBloomfield, NJ 07003",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,92.0,4.0
+277,Paya Thia Video,3.0 star rating,1 review,,,['Thai'],,"6404 39th AveWoodside, NY 11377",,,,,,,,,,,,,,,,,,,1.0,3.0
+278,Peak Thai Restaurant,3.5 star rating,113 reviews,$$,$11-30,['Thai'],Yes,"301 E 49th StNew York, NY 10017",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,113.0,3.5
+279,Peking Taste Restaurant,3.5 star rating,25 reviews,$,,"['Szechuan', 'Thai']",Yes,"2343 Richmond AveStaten Island, NY 10314",No,,Casual,Yes,Yes,Yes,Lunch,No,Yes,Yes,Loud,No,Private Lot,Yes,No,Yes,,No,25.0,3.5
+280,Penang Malaysian & Thai Cuisine,3.5 star rating,293 reviews,$$,,"['Malaysian', 'Thai', 'Chinese']",Yes,"505 Old Post RdEdison, NJ 08817",No,Casual,Casual,No,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,Free,293.0,3.5
+281,Penang,,,,,['Thai'],,"541 La Guardia PlNew York, NY 10012",,,,,,,,,,,,,,,,,,,,
+282,Pho Thai Lao Kitchen,4.0 star rating,164 reviews,$$,,"['Thai', 'Laotian']",Yes,"219 Maywood AveMaywood, NJ 07607",Beer & Wine Only,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,Yes,Average,No,"Street, Private Lot",Yes,Yes,Yes,Yes,Free,164.0,4.0
+283,Pig and Khao,4.0 star rating,889 reviews,$$,,"['Filipino', 'Thai', 'Asian Fusion']",Yes,"68 Clinton StNew York, NY 10002",Full Bar,Casual,Casual,No,No,No,Dinner,Yes,No,No,Average,Yes,Street,No,Yes,Yes,Yes,No,889.0,4.0
+284,Pimaan Thai Restaurant,4.0 star rating,152 reviews,$$,,['Thai'],Yes,"79 Kinderkamack RdEmerson, NJ 07630",No,Casual,Casual,No,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,152.0,4.0
+285,Pinto Garden,5.0 star rating,9 reviews,$$$,,['Thai'],Yes,"117 W 10th StNew York, NY 10011",Beer & Wine Only,Casual,Casual,No,Yes,No,,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,No,9.0,5.0
+286,Pinto Restaurant,4.0 star rating,82 reviews,$$,$11-30,"['Thai', 'Desserts', 'Seafood']",Yes,"128 Montague StBrooklyn Heights, NY 11201",Beer & Wine Only,Romantic,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,82.0,4.0
+287,Playground Authentic Thai Cuisine,4.0 star rating,88 reviews,$$,,"['Karaoke', 'Thai', 'Bars']",No,"71-30 Roosevelt AveJackson Heights, NY 11372",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,No,Yes,Average,No,Street,Yes,No,Yes,No,No,88.0,4.0
+288,Ploi Thai,3.0 star rating,95 reviews,$$,$11-30,['Thai'],Yes,"245 Paterson AveEast Rutherford, NJ 07073",No,,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,No,95.0,3.0
+289,Ploy Thai,3.5 star rating,97 reviews,$,,['Thai'],Yes,"8140 BroadwayElmhurst, NY 11373",No,Divey,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,97.0,3.5
+290,Pochana Thai Kitchen,3.5 star rating,138 reviews,$$,,['Thai'],Yes,"33-16 30th AveAstoria, NY 11103",No,,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,No,138.0,3.5
+291,Pok Pok NY,3.5 star rating,398 reviews,$$,,['Thai'],Yes,"117 Columbia StBrooklyn, NY 11231",Full Bar,Hipster,Casual,Yes,Yes,No,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,No,No,398.0,3.5
+292,Pongsri Thai Restaurant,3.5 star rating,386 reviews,$$,,['Thai'],Yes,"244 W 48th StNew York, NY 10036",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,No,386.0,3.5
+293,Port Thai Place,4.0 star rating,36 reviews,$$,,['Thai'],Yes,"24B Main StPort Washington, NY 11050",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Quiet,No,"Street, Private Lot",Yes,Yes,Yes,Yes,No,36.0,4.0
+294,Potjanee Thai Restaurant,3.5 star rating,250 reviews,$$,$11-30,['Thai'],Yes,"48 Carmine StNew York, NY 10014",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,250.0,3.5
+295,Potluck,3.0 star rating,46 reviews,$$,$11-30,"['Asian Fusion', 'Szechuan', 'Thai']",Yes,"255 W 26th StNew York, NY 10001",Beer & Wine Only,,Casual,,Yes,Yes,Lunch,Yes,Yes,No,Very Loud,No,"Garage, Street",Yes,Yes,Yes,Yes,Free,46.0,3.0
+296,Poy Laung Thai Restaurant,1.0 star rating,1 review,,,['Thai'],,"206 Bedford AvenueBrooklyn, NY 11211",,,,,,,,,,,,,,,,,,,1.0,1.0
+297,Pr&ince,4.5 star rating,149 reviews,$$,$11-30,['Thai'],Yes,"311 Baldwin AveJersey City, NJ 07306",No,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,,No,149.0,4.5
+298,Prik Thai Kitchen,3.5 star rating,72 reviews,$,Under $10,['Thai'],Yes,"4716 30th AveAstoria, NY 11103",No,Casual,Casual,Yes,,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,No,72.0,3.5
+299,Pro Thai,4.0 star rating,92 reviews,$$,$11-30,"['Thai', 'Asian Fusion']",Yes,"1575 Lexington AveNew York, NY 10029",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,Free,92.0,4.0
+300,Puff Cha Ramen,4.0 star rating,390 reviews,$,Under $10,"['Thai', 'Bubble Tea', 'Ramen']",Yes,"457 W 50th StNew York, NY 10019",No,Casual,Casual,Yes,Yes,Yes,Lunch,No,Yes,No,Average,No,"Valet, Garage, Street",Yes,Yes,Yes,No,Free,390.0,4.0
+301,Pure Thai Cookhouse,4.0 star rating,1796 reviews,$$,,['Thai'],Yes,"766 9th AveNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,No,No,Average,No,Street,Yes,No,Yes,Yes,No,1796.0,4.0
+302,PuTawn Local Thai Kitchen,4.5 star rating,23 reviews,$$,$11-30,['Thai'],Yes,"15841st Avenue ( 82 & 83 St)New York, NY 10028",Beer & Wine Only,,Casual,No,,Yes,,Yes,Yes,No,,No,,Yes,Yes,Yes,,,23.0,4.5
+303,Pye Boat Noodle,4.5 star rating,169 reviews,$$,,"['Thai', 'Noodles']",Yes,"1711 Second AveNew York, NY 10128",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,169.0,4.5
+304,Qi Thai Grill,3.5 star rating,233 reviews,$$,$11-30,['Thai'],Yes,"176 N 9th StBrooklyn, NY 11211",Full Bar,Trendy,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,233.0,3.5
+305,Qi,3.5 star rating,948 reviews,$$,$11-30,"['Asian Fusion', 'Thai']",Yes,"675 8th AveNew York, NY 10036",Full Bar,Trendy,Casual,No,No,Yes,"Lunch, Dinner",Yes,No,No,Average,No,Street,Yes,Yes,Yes,,No,948.0,3.5
+306,Rain II,3.5 star rating,93 reviews,$$,,['Thai'],Yes,"1095 St Niclolas AveNew York, NY 10032",No,,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,,Yes,Yes,Yes,,No,93.0,3.5
+307,RaKang,4.0 star rating,43 reviews,$$,,['Thai'],Yes,"895 W Beech StLong Beach, NY 11561",Full Bar,Intimate,Casual,Yes,No,Yes,Dinner,Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,Free,43.0,4.0
+308,Rama Thai Cuisine,3.5 star rating,2 reviews,,,['Thai'],,"881 Woodward AveQueens, NY 11385",,,,,,,,,,,,,,,,,,,2.0,3.5
+309,Rama Thai,2.0 star rating,13 reviews,$,,['Thai'],Yes,"631 5th AveBrooklyn, NY 11215",,,Casual,,,Yes,,,,,,,,Yes,,,,No,13.0,2.0
+310,Real Thai,4.0 star rating,1 review,,,['Thai'],Yes,"33 N Beverwyck RdLake Hiawatha, NJ 07034",,,,,,,,Yes,Yes,,,,,Yes,No,,,,1.0,4.0
+311,Red Basil Thai Kitchen,3.5 star rating,163 reviews,$,Under $10,['Thai'],Yes,"32-47 Steinway StAstoria, NY 11103",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,163.0,3.5
+312,Red Lotus Thai Restaurant,3.5 star rating,51 reviews,$$,,['Thai'],Yes,"227 Main StreetNew Rochelle, NY 10801",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Private Lot,Yes,Yes,Yes,,Free,51.0,3.5
+313,Rhong Tiam,3.0 star rating,42 reviews,$$,$11-30,"['Thai', 'Juice Bars & Smoothies', 'Chicken Wings']",Yes,"331 Lexington AveNew York, NY 10016",No,Casual,Casual,Yes,Yes,Yes,Lunch,No,Yes,No,Average,No,Street,Yes,No,No,,No,42.0,3.0
+314,Rhong-Tiam Thai Truck,3.5 star rating,22 reviews,$$,,"['Thai', 'Food Trucks']",No,"31 E 21st StTompkins Park North, NY 11205",No,,Casual,,,Yes,,Yes,,No,Loud,No,,Yes,No,No,,No,22.0,3.5
+315,Rice Bowl Chinese Cuisine,2.5 star rating,29 reviews,$,Under $10,"['Chinese', 'Thai']",Yes,"37 Gill LnWoodbridge Township, NJ 08830",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Private Lot,Yes,No,Yes,,No,29.0,2.5
+316,Rice Thai Kitchen,3.0 star rating,151 reviews,$$,,['Thai'],Yes,"311 7th AveBrooklyn, NY 11215",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,151.0,3.0
+317,Ridge Thai,3.5 star rating,149 reviews,$$,,['Thai'],Yes,"50 Chestnut StRidgewood, NJ 07450",No,Casual,Casual,No,No,No,Dinner,No,No,No,Average,No,Street,Yes,Yes,Yes,Yes,No,149.0,3.5
+318,Ridgewood Thai,3.0 star rating,128 reviews,$$,$11-30,['Thai'],Yes,"72-04 Forest AveRidgewood, NY 11385",No,Casual,Casual,Yes,,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,,Paid,128.0,3.0
+319,Rin Thai,3.5 star rating,247 reviews,$$,$11-30,['Thai'],Yes,"265 W 23rd StNew York, NY 10011",Full Bar,Intimate,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,247.0,3.5
+320,River Thai Cuisine,4.0 star rating,51 reviews,$$,,['Thai'],Yes,"50 Main StSouth River, NJ 08882",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,51.0,4.0
+321,River Thai Food,4.0 star rating,105 reviews,$$,$11-30,['Thai'],Yes,"24 Hilliard AveEdgewater, NJ 07020",No,Divey,Casual,No,No,Yes,Dinner,No,Yes,No,Quiet,No,Street,Yes,No,Yes,No,Free,105.0,4.0
+322,Roll Smash Ice Cream Bar,4.0 star rating,13 reviews,$,,"['Desserts', 'Thai', 'Ice Cream & Frozen Yogurt']",Yes,"45-43B Bell BlvdQueens, NY 11361",,,Casual,,,,,Yes,Yes,,,No,,Yes,No,,,,13.0,4.0
+323,Room Service,3.5 star rating,1592 reviews,$$,$11-30,['Thai'],Yes,"690 9th AveNew York, NY 10036",Full Bar,Trendy,Casual,Yes,No,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,Yes,No,1592.0,3.5
+324,Royal II Thai Cuisine,2.0 star rating,99 reviews,$$,,['Thai'],Yes,"318 W 36th StNew York, NY 10018",Beer & Wine Only,Divey,Casual,,,Yes,Lunch,Yes,Yes,Yes,Average,No,Street,Yes,,Yes,Yes,Free,99.0,2.0
+325,Royal Siam Thai Cuisine,3.5 star rating,166 reviews,$$,$11-30,['Thai'],Yes,"240 8th AveNew York, NY 10011",Beer & Wine Only,"Casual, Intimate",Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,166.0,3.5
+326,Royal Thai Resturant,,,,,['Thai'],,"1700 Oak Tree RdSte 9Edison, NJ 08820",,,,,,,,,,,,,,,,,,,,
+327,Ruby Thai Kitchen,3.5 star rating,11 reviews,$,,['Thai'],Yes,"1400 Willowbrook MallWayne, NJ 07470",No,,Casual,No,No,No,Lunch,Yes,Yes,No,Average,No,,Yes,No,No,,Paid,11.0,3.5
+328,Sa-Woy,,,,,['Thai'],,"1479 1st AveNew York, NY 10075",,,,,,,,,,,,,,,,,,,,
+329,Sabay Thai Restaurant,4.0 star rating,91 reviews,$$,,['Thai'],Yes,"75-19 BroadwayElmhurst, NY 11373",Full Bar,Casual,Casual,Yes,No,Yes,Lunch,Yes,Yes,Yes,Quiet,No,Street,Yes,No,Yes,Yes,No,91.0,4.0
+330,Sage,3.5 star rating,356 reviews,$$,$11-30,['Thai'],Yes,"299-301 Graham AveBrooklyn, NY 11211",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,356.0,3.5
+331,Sai Thai Kitchen,3.5 star rating,135 reviews,$$,$11-30,['Thai'],Yes,"437 5th AveBrooklyn, NY 11215",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,No,135.0,3.5
+332,Saketumi Asian Bistro,4.0 star rating,58 reviews,$$,,"['Sushi Bars', 'Thai', 'Asian Fusion']",Yes,"118 Montague StBrooklyn, NY 11201",Beer & Wine Only,Divey,Casual,Yes,Yes,Yes,,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,No,Free,58.0,4.0
+333,Sakura Sushi & Thai Cuisine,3.0 star rating,57 reviews,$$,,"['Sushi Bars', 'Japanese', 'Thai']",Yes,"273 Mott StNew York, NY 10012",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,Yes,Quiet,Yes,Street,Yes,Yes,Yes,Yes,No,57.0,3.0
+334,SAMUI,4.0 star rating,25 reviews,$$,,"['Thai', 'Asian Fusion', 'Seafood']",Yes,"15 Vanderbilt AveBrooklyn, NY 11205",Full Bar,,Casual,No,No,No,,Yes,Yes,No,Loud,No,Street,Yes,Yes,Yes,Yes,No,25.0,4.0
+335,Sapphire Thai Food Express,4.5 star rating,60 reviews,$$,,['Thai'],Yes,"445 Cedar LnTeaneck, NJ 07666",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,No,60.0,4.5
+336,Sarin Thai,4.0 star rating,113 reviews,$$,,['Thai'],Yes,"43 Glen Cove RdGreenvale, NY 11548",Full Bar,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,113.0,4.0
+337,Savannah’s Southern Belle,4.0 star rating,11 reviews,$$,,"['Soul Food', 'Seafood', 'Thai']",Yes,"10 E Blancke StLinden, NJ 07036",,,Casual,Yes,,Yes,,Yes,Yes,Yes,,No,,Yes,Yes,,,Free,11.0,4.0
+338,Sawadee,3.0 star rating,407 reviews,$$,$11-30,"['Thai', 'Chinese']",Yes,"137 Newark AveJersey City, NJ 07302",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,407.0,3.0
+339,Sawasde Thai Cooking,4.0 star rating,64 reviews,$$,$11-30,['Thai'],Yes,"359 McDonald AveBrooklyn, NY 11218",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,Yes,Quiet,Yes,Street,Yes,Yes,Yes,Yes,Free,64.0,4.0
+340,Sea,3.5 star rating,2292 reviews,$$,$11-30,"['Thai', 'Bars']",Yes,"114 N 6th StBrooklyn, NY 11211",Full Bar,Trendy,Casual,Yes,Yes,Yes,Dinner,Yes,No,Yes,Loud,No,Street,Yes,Yes,Yes,Yes,No,2292.0,3.5
+341,Secrets of Thai Cooking,,,,,['Thai'],,"95 1st AveNew York, NY 10003",,,,,,,,,,,,,,,,,,,,
+342,Seeda Thai Restaurant,3.5 star rating,98 reviews,$$,,['Thai'],Yes,"28 N Central AveValley Stream, NY 11580",Full Bar,Intimate,Casual,No,Yes,No,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,No,98.0,3.5
+343,Senn Thai Comfort Food,4.0 star rating,152 reviews,$$,$11-30,['Thai'],Yes,"452 Amsterdam AveNew York, NY 10024",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,,No,152.0,4.0
+344,Siam House,3.5 star rating,33 reviews,$$,,['Thai'],Yes,"2520 US 22 EScotch Plains, NJ 07076",No,Casual,Casual,No,No,Yes,Lunch,Yes,Yes,No,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,No,33.0,3.5
+345,Siam Orchid Thai Restaurant,3.5 star rating,55 reviews,$$,,['Thai'],Yes,"750 Central Park AveScarsdale, NY 10583",Full Bar,Casual,Casual,No,,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,,55.0,3.5
+346,Siam Records,,,,,['Thai'],,"555 W 57th StNew York, NY 10019",,,,,,,,,,,,,,,,,,,,
+347,Siam Smiles,4.0 star rating,79 reviews,$$,,['Thai'],Yes,"1016 State Rt 34Ste 4Matawan, NJ 07747",No,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,No,79.0,4.0
+348,Siam Square,3.5 star rating,80 reviews,$$,,['Thai'],Yes,"564 Kappock StBronx, NY 10463",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,80.0,3.5
+349,Siri Thai,4.0 star rating,139 reviews,$$,$11-30,['Thai'],Yes,"641 10th AveNew York, NY 10036",Beer & Wine Only,Casual,Casual,No,Yes,Yes,Lunch,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,No,139.0,4.0
+350,Sky Thai,3.0 star rating,256 reviews,$$,,['Thai'],Yes,"62 Morris StJersey City, NJ 07302",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,256.0,3.0
+351,SkyIce Sweet & Savory,4.0 star rating,541 reviews,$$,$11-30,"['Ice Cream & Frozen Yogurt', 'Thai']",Yes,"63 5th AveBrooklyn, NY 11217",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dessert",Yes,Yes,No,Average,No,Street,Yes,No,Yes,,Free,541.0,4.0
+352,Sla Thai Restaurant,4.5 star rating,73 reviews,$$,,['Thai'],Yes,"38 Upper Montclair PlzMontclair, NJ 07043",No,"Hipster, Casual",Casual,Yes,,Yes,Lunch,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,73.0,4.5
+353,Soho Thai,3.5 star rating,66 reviews,$$,$11-30,['Thai'],Yes,"141 Grand StNew York, NY 10013",Full Bar,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,66.0,3.5
+354,Sompong Thai,4.0 star rating,41 reviews,$$,$11-30,['Thai'],Yes,"3709 83rd StJackson Heights, NY 11372",Beer & Wine Only,"Intimate, Romantic",Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,No,No,41.0,4.0
+355,Somtum Der,4.0 star rating,423 reviews,$$,$11-30,['Thai'],Yes,"85 Ave ANew York, NY 10009",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,423.0,4.0
+356,Song,3.5 star rating,937 reviews,$$,,['Thai'],No,"295 5th AveBrooklyn, NY 11215",Full Bar,Trendy,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,No,Yes,Yes,No,937.0,3.5
+357,Songkran,3.5 star rating,176 reviews,$$,$11-30,['Thai'],Yes,"330 8th AveNew York, NY 10001",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,"Garage, Street",Yes,Yes,Yes,Yes,Free,176.0,3.5
+358,Sookk,3.5 star rating,234 reviews,$$,$11-30,"['Thai', 'Asian Fusion']",Yes,"2686 BroadwayNew York, NY 10025",Full Bar,Intimate,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,234.0,3.5
+359,Sopah Thai Kitchen,4.5 star rating,91 reviews,$$,,['Thai'],Yes,"11 Cedar Swamp RdGlen Cove, NY 11542",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,No,Free,91.0,4.5
+360,South East Asian Cuisine,3.5 star rating,31 reviews,$$,,"['Chinese', 'Thai', 'Asian Fusion']",Yes,"75 Garth RdScarsdale, NY 10583",No,Casual,Casual,No,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,,31.0,3.5
+361,Spice Chelsea Corner,3.0 star rating,158 reviews,$$,$11-30,['Thai'],Yes,"236 8th AveNew York, NY 10011",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,158.0,3.0
+362,Spice Classic,,,,,['Thai'],,"1411 2nd AveNew York, NY 10021",,,,,,,,,,,,,,,,,,,,
+363,Spice II,4.0 star rating,178 reviews,$$,,['Thai'],Yes,"399 Bloomfield AveMontclair, NJ 07042",No,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,178.0,4.0
+364,Spice Thai,3.5 star rating,70 reviews,$$,$11-30,['Thai'],Yes,"193 Smith StBrooklyn, NY 11201",Full Bar,,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,No,70.0,3.5
+365,Spice,3.5 star rating,1309 reviews,$$,$11-30,['Thai'],Yes,"39 E 13th StNew York, NY 10003",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,No,No,Average,No,Street,Yes,Yes,Yes,Yes,No,1309.0,3.5
+366,Spicy Republic,2.5 star rating,2 reviews,$,,['Thai'],,"972 Second AvenueNew York, NY 10021",,,,,,,,,,,,,,,,,,,2.0,2.5
+367,Spicy Shallot 2,3.5 star rating,63 reviews,$$,$11-30,['Thai'],Yes,"1208 W Boston Post RdMamaroneck, NY 10543",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,Free,63.0,3.5
+368,Spicy Shallot,3.5 star rating,409 reviews,$$,,"['Thai', 'Japanese']",Yes,"77-01 Woodside AveElmhurst, NY 11373",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,409.0,3.5
+369,Splash Of Thai,3.5 star rating,92 reviews,$$,,['Thai'],Yes,"321 S Ave WWestfield, NJ 07091",No,Casual,Casual,No,,No,Dinner,Yes,Yes,No,Quiet,Yes,Street,Yes,Yes,Yes,Yes,No,92.0,3.5
+370,Sri Thai Cafe,4.0 star rating,131 reviews,$,,['Thai'],No,"795 Grand StBrooklyn, NY 11211",No,Divey,Casual,Yes,No,Yes,"Lunch, Dinner",No,No,No,Average,No,Street,Yes,No,Yes,,No,131.0,4.0
+371,Sri Thai Thai Restaurant,3.0 star rating,147 reviews,$$,$11-30,['Thai'],Yes,"234 Bloomfield StHoboken, NJ 07030",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,No,No,Average,Yes,Street,Yes,No,Yes,No,No,147.0,3.0
+372,Sriparaphai,,,,,['Thai'],,"280 Hillside AveWilliston Park, NY 11596",,,,,,,,,,,,,,,,,,,,
+373,SriPraPhai Thai Restaurant,4.0 star rating,1906 reviews,$$,,"['Thai', 'Coffee & Tea', 'Noodles']",No,"64-13 39th AveWoodside, NY 11377",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,Yes,Average,Yes,Street,Yes,No,Yes,Yes,No,1906.0,4.0
+374,Star of Siam Thai Kitchen,3.0 star rating,69 reviews,$$,,['Thai'],Yes,"10318 Metropolitan AveForest Hills, NY 11375",Beer & Wine Only,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,No,69.0,3.0
+375,Sticky Rice,3.5 star rating,288 reviews,$$,$11-30,"['Thai', 'Barbeque', 'Cocktail Bars']",Yes,"85 Orchard StNew York, NY 10002",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,No,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,288.0,3.5
+376,Street Food Market,5.0 star rating,1 review,,,['Thai'],,"673 Main StHackensack, NJ 07601",,,,,,,,,,,,,,,,,,,1.0,5.0
+377,Sugunya Thai Foods,1.0 star rating,1 review,,,['Thai'],,"9529 Jamaica AveWoodhaven, NY 11421",,,,,,,,,Yes,,,,,,No,Yes,,,1.0,1.0
+378,Sukhumvit 51,4.0 star rating,425 reviews,$$,$11-30,['Thai'],Yes,"224 E 51st StNew York, NY 10022",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,Yes,No,No,425.0,4.0
+379,Suki Thai Shabu,3.5 star rating,144 reviews,$$,,"['Thai', 'Hot Pot']",Yes,"60-15 Woodside AveWoodside, NY 11377",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,Free,144.0,3.5
+380,Summit Thai Cuisine,3.0 star rating,54 reviews,$$,,['Thai'],Yes,"34 Maple StSummit, NJ 07901",No,Casual,Casual,No,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,54.0,3.0
+381,Sushi Island,3.5 star rating,244 reviews,$$,,"['Sushi Bars', 'Japanese', 'Thai']",Yes,"87-18 Queens BlvdElmhurst, NY 11373",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,No,No,244.0,3.5
+382,Sushi Tatsu II,2.5 star rating,150 reviews,$$,$11-30,"['Japanese', 'Thai']",Yes,"609 Franklin AveBrooklyn, NY 11238",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,Yes,Street,Yes,Yes,Yes,Yes,Free,150.0,2.5
+383,Sushi Thai Cuisine,2.0 star rating,108 reviews,$$,$11-30,"['Thai', 'Japanese', 'Sushi Bars']",Yes,"1185 Bedford AveBrooklyn, NY 11216",Beer & Wine Only,"Hipster, Casual",Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,Yes,Street,Yes,No,Yes,Yes,No,108.0,2.0
+384,Sushi Yama Asian Bistro,3.5 star rating,83 reviews,$$,$11-30,"['Sushi Bars', 'Thai', 'Japanese']",Yes,"268 Prospect Park WBrooklyn, NY 11215",Beer & Wine Only,Casual,Casual,,,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,No,Yes,Yes,No,83.0,3.5
+385,Sweet Basil,4.0 star rating,86 reviews,$$,$11-30,['Thai'],Yes,"39-28 61st StWoodside, NY 11377",Beer & Wine Only,Casual,Casual,Yes,,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,86.0,4.0
+386,Sweet Chili,4.0 star rating,58 reviews,$,,"['Food Trucks', 'Thai', 'Caterers']",Yes,"New York, NY 11201",No,Casual,Casual,Yes,,No,Lunch,Yes,Yes,No,Average,No,,Yes,No,No,,No,58.0,4.0
+387,Sweet Chilli,3.5 star rating,38 reviews,$$,,['Thai'],Yes,"897 BroadwayBayonne, NJ 07002",No,Casual,Casual,No,Yes,Yes,Lunch,Yes,Yes,No,Average,No,,Yes,No,Yes,,No,38.0,3.5
+388,T Thai,3.5 star rating,188 reviews,$$,$11-30,['Thai'],Yes,"102 Hudson StHoboken, NJ 07030",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,No,No,188.0,3.5
+389,Tai Thai,3.5 star rating,161 reviews,$$,$11-30,['Thai'],Yes,"78 E 1st StNew York, NY 10009",Beer & Wine Only,Casual,Casual,Yes,,Yes,Dinner,No,No,No,Average,No,Street,Yes,No,Yes,No,No,161.0,3.5
+390,Taipan Fusion Restaurant and Hookah Lounge,2.5 star rating,105 reviews,$$,,"['Halal', 'Thai', 'Chinese']",Yes,"184-22 Horace Harding ExpyFresh Meadows, NY 11365",No,Casual,Casual,No,Yes,Yes,Dinner,Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,No,Free,105.0,2.5
+391,Taj Mahal Restaurant,2.0 star rating,1 review,$,,"['Indian', 'Thai', 'Halal']",Yes,"148-01 Hillside AveJamaica, NY 11432",No,,Casual,,,Yes,,Yes,Yes,,,,,Yes,,,,,1.0,2.0
+392,Talent 2 Thai Kitchen,3.0 star rating,26 reviews,$$,,['Thai'],Yes,"592 9th AveNew York, NY 10036",Beer & Wine Only,,Casual,,,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,No,Yes,No,,26.0,3.0
+393,Talent Thai Kitchen,3.5 star rating,195 reviews,$$,$11-30,['Thai'],Yes,"210 E 34th StNew York, NY 10016",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,195.0,3.5
+394,Tana Thai,4.0 star rating,60 reviews,$$,$11-30,['Thai'],Yes,"1890 Eastchester RdBronx, NY 10461",No,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,No,Average,No,Street,Yes,No,Yes,,No,60.0,4.0
+395,Tasty Thai,,,,,['Thai'],,"4512 47th StSunnyside, NY 11104",,,,,,,,,,,,,,,,,,,,
+396,Tawa Wok,2.5 star rating,66 reviews,$$,$11-30,"['Indian', 'Chinese', 'Thai']",Yes,"608 Grove StJersey City, NJ 07310",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,Yes,Street,Yes,No,No,No,No,66.0,2.5
+397,Teeda Thai Cuisine,3.5 star rating,51 reviews,$,,['Thai'],Yes,"218 Columbia StBrooklyn, NY 11201",Beer & Wine Only,,Casual,,,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,,51.0,3.5
+398,Thai & Chinese Station,4.0 star rating,1 review,,,['Thai'],,"727 Franklin AveFranklin Square, NY 11010",,,,,,,,,,,,,,,,,,,1.0,4.0
+399,Thai 101 Bistro,3.0 star rating,125 reviews,$$,$11-30,['Thai'],Yes,"448 Myrtle AveBrooklyn, NY 11205",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,No,Yes,,No,125.0,3.0
+400,Thai @ Lex,3.0 star rating,95 reviews,$$,,['Thai'],Yes,"1244 Lexington AveNew York, NY 10028",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Dinner,No,Yes,No,Average,No,,Yes,Yes,Yes,,No,95.0,3.0
+401,Thai Austin Cafe,2.5 star rating,3 reviews,$,,['Thai'],Yes,"7015 Austin StQueens, NY 11375",,,,Yes,,,,Yes,,,,,Street,Yes,,,,,3.0,2.5
+402,Thai Buddha Fifteen,,,,,['Thai'],,"630 Ocean AveBrooklyn, NY 11226",,,,,,,,,,,,,,,,,,,,
+403,Thai Cafe,3.0 star rating,102 reviews,$$,,['Thai'],No,"925 Manhattan AveBrooklyn, NY 11222",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,No,No,102.0,3.0
+404,Thai Chef,3.0 star rating,103 reviews,$$,,"['French', 'Thai']",Yes,"664 Bloomfield AveMontclair, NJ 07042",No,Casual,Casual,Yes,Yes,No,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,Free,103.0,3.0
+405,Thai Cuisine Express,3.5 star rating,92 reviews,$,Under $10,['Thai'],No,"59 New StNewark, NJ 07102",No,Casual,Casual,Yes,No,Yes,Lunch,Yes,Yes,No,Average,No,Street,Yes,No,No,Yes,No,92.0,3.5
+406,Thai Cuisine,,,,,['Thai'],,"225 Main StChatham, NJ 07928",,,,,,,,,,,,,,,,,,,,
+407,Thai Diva Cuisine,4.5 star rating,43 reviews,$$,$11-30,"['Thai', 'Salad', 'Soup']",Yes,"45-53 46th St.Woodside, NY 11377",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner, Dessert",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,Free,43.0,4.5
+408,Thai Elephant,3.0 star rating,170 reviews,$$,$11-30,['Thai'],Yes,"21-09 31st StAstoria, NY 11105",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,170.0,3.0
+409,Thai Essence,4.0 star rating,107 reviews,$$,,['Thai'],Yes,"231 Franklin AveNutley, NJ 07110",No,Casual,Casual,Yes,Yes,No,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,Free,107.0,4.0
+410,Thai Evolution,2.5 star rating,3 reviews,,,['Thai'],,"536 3rd AveNew York, NY 10016",,,,,,,,,,,,,,,,,,,3.0,2.5
+411,Thai Express,,,,,['Thai'],,"1456 College Point BlvdCollege Point, NY 11356",,,,,,,,,,,,,,,,,,,,
+412,Thai Food,,,,,['Thai'],,"190-238 Audrey Zapp DrJersey City, NJ 07305",,,,,,,,,,,,,,,,,,,,
+413,Thai Fresh,2.5 star rating,19 reviews,$$,,['Thai'],Yes,"1881 Victory BlvdStaten Island, NY 10314",No,Casual,Casual,,Yes,Yes,,No,Yes,No,Quiet,No,,Yes,No,Yes,,No,19.0,2.5
+414,Thai Garden,3.5 star rating,46 reviews,$$,,['Thai'],Yes,"10 Pearl StMetuchen, NJ 08840",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,No,46.0,3.5
+415,Thai House Restaurant,3.5 star rating,44 reviews,$$,,['Thai'],Yes,"466 Ashford AveArdsley, NY 10502",Beer & Wine Only,Casual,Casual,Yes,Yes,No,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,No,No,44.0,3.5
+416,Thai House Rock,4.5 star rating,119 reviews,$$,,"['Thai', 'Asian Fusion']",Yes,"1133 St. George AveColonia, NJ 07067",No,Casual,Casual,Yes,No,No,"Lunch, Dinner",No,Yes,No,Quiet,No,Private Lot,Yes,No,Yes,Yes,No,119.0,4.5
+417,Thai House,3.5 star rating,74 reviews,$$,,['Thai'],Yes,"321 Millburn AveMillburn, NJ 07041",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,74.0,3.5
+418,Thai Jasmine Cuisine,4.5 star rating,58 reviews,$$,,['Thai'],Yes,"137 Main StBloomingdale, NJ 07403",No,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,,58.0,4.5
+419,Thai Jasmine Resturant,3.5 star rating,311 reviews,$$,,['Thai'],Yes,"106 Bayard StNew York, NY 10013",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,311.0,3.5
+420,Thai Kitchen By The Sea,3.0 star rating,76 reviews,$$,,['Thai'],Yes,"67-20 Rockaway Beach BlvdArverne, NY 11692",Full Bar,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,Yes,Quiet,No,Street,Yes,No,Yes,,Free,76.0,3.0
+421,Thai Kitchen By Yada,4.0 star rating,43 reviews,$$,,"['Thai', 'Soup', 'Salad']",Yes,"48 W Church StBergenfield, NJ 07621",No,Divey,Casual,Yes,No,No,"Lunch, Dinner",No,Yes,No,Average,Yes,Street,Yes,No,No,No,No,43.0,4.0
+422,Thai Lemongrass,2.0 star rating,13 reviews,,,['Thai'],Yes,"273 A Mott StManhattan, NY 10012",Beer & Wine Only,,,,,,,,Yes,Yes,,,,,,,,,13.0,2.0
+423,Thai Market,4.0 star rating,730 reviews,$$,,['Thai'],Yes,"960 Amsterdam AveNew York, NY 10025",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,730.0,4.0
+424,Thai Nam,2.0 star rating,11 reviews,$$,,['Thai'],Yes,"424 Amsterdam AveNew York, NY 10024",No,,Casual,,,Yes,,No,No,,,,,Yes,,Yes,,,11.0,2.0
+425,THAI NO. 1,3.5 star rating,111 reviews,$$,,['Thai'],Yes,"1509 White Plains RdEast Bronx, NY 10462",No,Casual,Casual,No,Yes,Yes,Lunch,No,Yes,Yes,Average,No,Street,Yes,No,Yes,,Free,111.0,3.5
+426,Thai O’Brien’s,3.5 star rating,95 reviews,$$,$11-30,"['Thai', 'Lounges']",Yes,"478 Ave EBayonne, NJ 07002",Full Bar,Intimate,Casual,No,Yes,Yes,Dinner,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,95.0,3.5
+427,Thai Passion,4.0 star rating,90 reviews,$$,,"['Thai', 'Desserts']",Yes,"225 Main StChatham, NJ 07928",No,Casual,Casual,No,Yes,No,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,90.0,4.0
+428,Thai Peppercorn,4.0 star rating,142 reviews,$$,,['Thai'],Yes,"1750 1st AveNew York, NY 10128",Full Bar,Intimate,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,142.0,4.0
+429,Thai Pochana,3.5 star rating,30 reviews,$$,$11-30,['Thai'],No,"63-55 Wetherole StRego Park, NY 11374",No,,Casual,Yes,Yes,Yes,Lunch,No,Yes,Yes,Loud,Yes,Street,Yes,Yes,No,No,Free,30.0,3.5
+430,Thai Pot,3.0 star rating,138 reviews,$$,$11-30,['Thai'],Yes,"103-07 Queens BlvdForest Hills, NY 11375",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,138.0,3.0
+431,Thai Select,3.5 star rating,406 reviews,$$,$11-30,['Thai'],Yes,"472 9th AveNew York, NY 10018",Full Bar,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,406.0,3.5
+432,Thai Sliders & Co,4.0 star rating,149 reviews,$$,,['Thai'],Yes,"108 John StNew York, NY 10038",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,149.0,4.0
+433,Thai Sliders,3.5 star rating,21 reviews,$$,,['Thai'],Yes,"150 8th AveNew York, NY 10011",Full Bar,,Casual,Yes,,No,,Yes,Yes,No,Quiet,No,,Yes,No,Yes,,,21.0,3.5
+434,Thai Soup,4.0 star rating,75 reviews,$$,$11-30,['Thai'],Yes,"166 E 118th StSte ANew York, NY 10035",No,Divey,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,No,Quiet,No,Street,Yes,No,No,Yes,No,75.0,4.0
+435,Thai Street Food By Tuk Tuk Boy,3.5 star rating,3 reviews,,,"['Street Vendors', 'Thai']",,"Corner of 30th Ave & 30th StAstoria, NY 11102",,,,,,,,,,,,,,,,,,,3.0,3.5
+436,Thai Table,3.5 star rating,96 reviews,$$,$11-30,['Thai'],Yes,"88 N Village AveRockville Centre, NY 11570",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,96.0,3.5
+437,Thai Taste Restaurant,3.0 star rating,129 reviews,$$,,['Thai'],Yes,"178-19 Union TpkeFresh Meadows, NY 11366",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,129.0,3.0
+438,Thai Terminal,4.0 star rating,501 reviews,$$,$11-30,['Thai'],Yes,"349 E 12th StNew York, NY 10003",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,501.0,4.0
+439,Thai Thai Cuisine,4.0 star rating,121 reviews,$$,,['Thai'],Yes,"3843 County Hwy 516Old Bridge, NJ 08857",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,121.0,4.0
+440,Thai Thai Grocery Store,4.0 star rating,16 reviews,$,,"['Thai', 'Imported Food']",Yes,"7613 Woodside AveElmhurst, NY 11373",No,,Casual,No,No,No,,Yes,Yes,Yes,Average,No,Street,Yes,No,No,,No,16.0,4.0
+441,Thai Thani Restaurant,,,,,['Thai'],,"149 2nd AvenueNew York, NY 10003",,,,,,,,,,,,,,,,,,,,
+442,Thai Time,1.5 star rating,7 reviews,$$,,['Thai'],Yes,"609 Franklin AveBrooklyn, NY 11238",,,,,,,,,,No,,,,,,Yes,,,7.0,1.5
+443,Thai Tony’s,3.5 star rating,105 reviews,$$,,['Thai'],Yes,"3019 Fort Hamilton PkwyBrooklyn, NY 11218",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,Yes,No,Quiet,Yes,Street,Yes,Yes,Yes,Yes,No,105.0,3.5
+444,Thai Villa,4.5 star rating,125 reviews,$$,$11-30,['Thai'],Yes,"5 E 19th StG FloorNew York, NY 10003",Full Bar,Trendy,Casual,No,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,Free,125.0,4.5
+445,Thai West,4.0 star rating,33 reviews,$$,,"['Thai', 'French']",Yes,"22 Jefferson AveWestwood, NJ 07675",No,,Casual,No,No,Yes,,Yes,No,No,Quiet,Yes,,Yes,Yes,Yes,Yes,Free,33.0,4.0
+446,Thai Wok,3.0 star rating,28 reviews,$,Under $10,['Thai'],Yes,"1406 Madison AveNew York, NY 10029",No,Casual,Casual,No,Yes,Yes,Lunch,No,Yes,No,Average,No,Street,Yes,No,No,,No,28.0,3.0
+447,Thai-ish,4.5 star rating,49 reviews,$$,$11-30,['Thai'],Yes,"168 Lexington AveNew York, NY 10016",Beer & Wine Only,,Casual,Yes,Yes,Yes,"Brunch, Dessert",Yes,Yes,No,Average,No,,Yes,Yes,Yes,No,No,49.0,4.5
+448,Thai-Nam Restaurant,2.0 star rating,37 reviews,$,,['Thai'],Yes,"137 E 45th StNew York, NY 10017",,,Casual,No,,Yes,,Yes,Yes,Yes,,No,,Yes,No,Yes,,,37.0,2.0
+449,Thai,,,,,"['Taiwanese', 'Thai']",,"31-13 55th StNew York, NY 11377",,,,,,,,,,,,,,,,,,,,
+450,Thailand Cafe,3.5 star rating,244 reviews,$$,$11-30,['Thai'],Yes,"95 2nd AveNew York, NY 10003",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,Free,244.0,3.5
+451,Thailand Kitchen,3.5 star rating,70 reviews,$$,,['Thai'],No,"8605 Jamaica AveJamaica, NY 11421",Beer & Wine Only,Casual,Casual,No,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,70.0,3.5
+452,Thailand Restaurant,3.0 star rating,77 reviews,$$,$11-30,"['Thai', 'Vietnamese', 'Soup']",Yes,"856 10th AveNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,No,77.0,3.0
+453,Thailand’s Center Point,4.0 star rating,139 reviews,$$,,"['Thai', 'Seafood']",No,"63-19 39th AveWoodside, NY 11377",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,139.0,4.0
+454,Thailicious,4.5 star rating,20 reviews,$,Under $10,['Thai'],Yes,"75 Baxter StNew York, NY 10013",No,"Hipster, Casual, Trendy, Intimate",Casual,No,Yes,Yes,Lunch,No,Yes,No,Quiet,No,"Street, Private Lot",Yes,No,Yes,No,Free,20.0,4.5
+455,Thais New York,4.0 star rating,51 reviews,$$,$11-30,['Thai'],Yes,"1718 2nd AveNew York, NY 10128",Full Bar,"Casual, Trendy",Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,51.0,4.0
+456,Thaism,4.0 star rating,68 reviews,$$,$11-30,['Thai'],Yes,"278 Smith StBrooklyn, NY 11231",Full Bar,Hipster,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,,Yes,Yes,Yes,Yes,Free,68.0,4.0
+457,Thanya Thai Cuisine,3.5 star rating,130 reviews,$$,$11-30,['Thai'],Yes,"33-47 Francis Lewis BlvdFlushing, NY 11358",No,Casual,Casual,No,No,Yes,Lunch,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,No,130.0,3.5
+458,The Green Papaya,3.5 star rating,259 reviews,$$,,"['Thai', 'Malaysian', 'Asian Fusion']",Yes,"110 Kinderkamack RdRiver Edge, NJ 07661",No,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,Yes,No,259.0,3.5
+459,The Lucky Bee,3.5 star rating,106 reviews,$$$,,"['Thai', 'Asian Fusion', 'Cocktail Bars']",Yes,"252 Broome StNew York, NY 10002",Full Bar,"Hipster, Trendy",Casual,Yes,Yes,No,Dinner,Yes,No,No,Loud,No,Street,Yes,Yes,Yes,No,Free,106.0,3.5
+460,The Nuaa,4.0 star rating,257 reviews,$$,,['Thai'],Yes,"1122 1st AveNew York, NY 10065",Full Bar,Trendy,Casual,Yes,Yes,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,Yes,No,257.0,4.0
+461,The Old Siam Restaurant,3.0 star rating,66 reviews,$$,,['Thai'],Yes,"69-12 Austin St11375Forest Hills, NY 11375",Full Bar,Casual,Casual,Yes,Yes,Yes,Lunch,Yes,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,,No,66.0,3.0
+462,The Thai Elephant,4.5 star rating,99 reviews,$$,,"['Thai', 'Food Trucks']",Yes,"18 Grove AveVerona, NJ 07044",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,Yes,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,Free,99.0,4.5
+463,THOM 689,4.0 star rating,59 reviews,$$,$11-30,['Thai'],Yes,"689 Washington AveCrown Heights, NY 11238",No,"Hipster, Casual",Casual,Yes,No,Yes,Dinner,No,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,59.0,4.0
+464,Thongyib Thai Cart,4.5 star rating,8 reviews,$,,"['Food Trucks', 'Thai']",No,"405 Park AveNew York, NY 10022",No,,Casual,Yes,,No,,No,,No,,,,Yes,No,,,,8.0,4.5
+465,Thái Son,3.5 star rating,650 reviews,$,,"['Vietnamese', 'Thai', 'Asian Fusion']",Yes,"89 Baxter StNew York, NY 10013",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,650.0,3.5
+466,Tiny Thai Cafe,3.0 star rating,1 review,,,['Thai'],,"394 3rd AveNew York, NY 10003",,,,,,,,,,,,,,,,,,,1.0,3.0
+467,To B Thai,3.5 star rating,159 reviews,$$,,['Thai'],No,"126 Beverley RdBrooklyn, NY 11218",No,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",No,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,159.0,3.5
+468,Tokyo Cafe,3.5 star rating,27 reviews,$$,,"['Japanese', 'Thai']",Yes,"59 Washington AveWestwood, NJ 07675",No,,Casual,Yes,,Yes,,Yes,Yes,Yes,Quiet,No,Private Lot,Yes,Yes,Yes,Yes,No,27.0,3.5
+469,Tokyo House,3.0 star rating,6 reviews,$$,,"['Sushi Bars', 'Thai', 'Chinese']",Yes,"2710 Long Beach RoadOceanside, NY 11572",,,Casual,,,Yes,,Yes,Yes,Yes,,,,Yes,No,,,,6.0,3.0
+470,Tom Yum Koong Thai Kitchen,4.0 star rating,78 reviews,$$,,['Thai'],Yes,"305 BlvdHasbrouck Heights, NJ 07604",No,Casual,Casual,Yes,,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,,No,78.0,4.0
+471,Tom Yum,4.0 star rating,56 reviews,$$,,['Thai'],Yes,"147 Terrace StHaworth, NJ 07641",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,No,56.0,4.0
+472,Tommy Thai,4.0 star rating,93 reviews,$$,$11-30,['Thai'],Yes,"85-32 Grand AveElmhurst, NY 11373",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Brunch,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,,No,93.0,4.0
+473,Tomo Japanese Fusion,3.0 star rating,136 reviews,$$,$11-30,"['Asian Fusion', 'Japanese', 'Thai']",Yes,"1077 Flushing AveBrooklyn, NY 11237",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,136.0,3.0
+474,Top Thai,4.0 star rating,185 reviews,$$,$11-30,['Thai'],Yes,"8510 4th AveBrooklyn, NY 11209",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,Yes,No,Quiet,No,Street,Yes,No,Yes,,No,185.0,4.0
+475,Topaz Noodle Bar,4.0 star rating,141 reviews,$$,$11-30,['Thai'],Yes,"129 W 56th StNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,141.0,4.0
+476,Topaz Thai Authentic,3.5 star rating,616 reviews,$$,$11-30,['Thai'],Yes,"127 W 56th StNew York, NY 10019",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,616.0,3.5
+477,Topaz Thai Restaurant,4.0 star rating,288 reviews,$$,,['Thai'],Yes,"137 Washington AveBelleville, NJ 07109",No,Casual,Casual,Yes,No,No,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,288.0,4.0
+478,Tue Thai Restaurant,3.5 star rating,246 reviews,$$,$11-30,['Thai'],Yes,"3 Greenwich AveNew York, NY 10014",Beer & Wine Only,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,246.0,3.5
+479,Tuk Tuk,4.0 star rating,509 reviews,$$,,['Thai'],Yes,"4906 Vernon BlvdLong Island City, NY 11101",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,509.0,4.0
+480,Tum Thai,4.0 star rating,58 reviews,$$,,"['Thai', 'Asian Fusion']",Yes,"504 Kenilworth BlvdKenilworth, NJ 07033",No,Casual,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Quiet,No,"Street, Private Lot",Yes,Yes,Yes,No,No,58.0,4.0
+481,TumYum,4.5 star rating,3 reviews,,,['Thai'],,"917 105th StColumbus AveManhattan, NY 10025",,,,Yes,,Yes,,,,No,,No,,,,,,,3.0,4.5
+482,Tung Thong 181,4.0 star rating,8 reviews,,,"['Thai', 'Salad', 'Soup']",Yes,"812 W 181st StNew York, NY 10033",,,,,Yes,Yes,,,,Yes,,Yes,,Yes,Yes,Yes,No,No,8.0,4.0
+483,Tung Thong Thai Restaurant,3.5 star rating,179 reviews,$$,,['Thai'],Yes,"561 W 169th StNew York, NY 10032",No,Casual,Casual,No,Yes,Yes,Lunch,No,Yes,No,Average,No,Street,Yes,No,Yes,,No,179.0,3.5
+484,Umi Asian Fusion,4.0 star rating,60 reviews,$$,,"['Asian Fusion', 'Japanese', 'Thai']",Yes,"78 Covert AveStewart Manor, NY 11530",Full Bar,Casual,Casual,No,Yes,Yes,Dinner,Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,Free,60.0,4.0
+485,Uncle Boons,4.0 star rating,393 reviews,$$$,,['Thai'],Yes,"7 Spring StNew York, NY 10012",Full Bar,,Casual,No,No,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,,No,393.0,4.0
+486,Up Thai,4.5 star rating,1055 reviews,$$,$11-30,['Thai'],Yes,"1411 2nd AveNew York, NY 10021",Full Bar,Intimate,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,1055.0,4.5
+487,Vien,4.0 star rating,139 reviews,$$,$11-30,"['Asian Fusion', 'Vietnamese', 'Thai']",Yes,"220 Varick StNew York, NY 10014",No,Casual,Casual,Yes,No,Yes,Lunch,No,Yes,No,Average,No,Street,Yes,No,No,Yes,No,139.0,4.0
+488,Village MA,1.5 star rating,8 reviews,$,,"['Vietnamese', 'Thai']",Yes,"107 MacDougal StSte ANew York, NY 10012",Full Bar,,Casual,,,,,No,No,,,,,,,,,,8.0,1.5
+489,VIV Regional Thai Cuisine,3.5 star rating,271 reviews,$$,$11-30,['Thai'],Yes,"138 E 34th StNew York, NY 10016",Full Bar,Romantic,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,No,No,Average,No,Street,Yes,Yes,Yes,,No,271.0,3.5
+490,Vynl,3.5 star rating,213 reviews,$$,,"['American (New)', 'Thai', 'Asian Fusion']",Yes,"756 9th AveNew York, NY 10019",Full Bar,"Casual, Trendy",Casual,Yes,No,Yes,"Brunch, Lunch, Dinner",Yes,Yes,Yes,Average,Yes,Street,Yes,No,Yes,,No,213.0,3.5
+491,V{IV} Bar & Restaurant,4.0 star rating,468 reviews,$$,$11-30,"['Thai', 'Bars']",Yes,"717 9th AveNew York, NY 10019",Full Bar,Trendy,Casual,Yes,Yes,Yes,Dinner,Yes,No,No,Average,No,Street,Yes,Yes,Yes,,No,468.0,4.0
+492,Wa Sushi & Thai,2.5 star rating,39 reviews,$$,$11-30,"['Sushi Bars', 'Thai', 'Desserts']",Yes,"2249 Church AveBrooklyn, NY 11226",No,,Casual,No,No,Yes,,Yes,Yes,No,Average,No,,Yes,No,Yes,,No,39.0,2.5
+493,Watami,4.0 star rating,12 reviews,$$,,"['Japanese', 'Korean', 'Thai']",Yes,"25 Cuttermill RdSte 5Great Neck, NY 11021",Beer & Wine Only,,Casual,No,No,Yes,,Yes,Yes,Yes,Very Loud,Yes,,No,Yes,Yes,,Free,12.0,4.0
+494,Wave Thai,4.0 star rating,269 reviews,$$,,"['Thai', 'Vegetarian']",Yes,"2137 31st StAstoria, NY 11105",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,269.0,4.0
+495,Wickedly Hot Thai Cuisine,1.5 star rating,5 reviews,,,['Thai'],Yes,"299 E 11th StNew York, NY 10003",,,,,,,,,,,,,,,,,,,5.0,1.5
+496,Wild Fusion,3.0 star rating,186 reviews,$$,$11-30,"['Asian Fusion', 'Japanese', 'Thai']",Yes,"313 Grove StJersey City, NJ 07302",Beer & Wine Only,Casual,Casual,Yes,No,Yes,Dinner,Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,Free,186.0,3.0
+497,Wild Ginger,,,,,"['Chinese', 'Thai']",,"46 E 29th StNew York, NY 10016",,,,,,,,,,,,,,,,,,,,
+498,Williamsburg Thai Cuisine,4.0 star rating,74 reviews,$$,$11-30,['Thai'],Yes,"212 Bedford AveBrooklyn, NY 11249",Beer & Wine Only,"Casual, Romantic",Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,74.0,4.0
+499,Wok To Walk,3.0 star rating,135 reviews,$,,"['Asian Fusion', 'Fast Food', 'Thai']",Yes,"684 3rd AveNew York, NY 10017",No,Casual,Casual,No,Yes,Yes,"Lunch, Dinner",No,Yes,No,Average,No,Street,Yes,No,No,,No,135.0,3.0
+500,Wok Wok,4.0 star rating,230 reviews,$$,,"['Chinese', 'Malaysian', 'Thai']",No,"11 Mott StNew York, NY 10013",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner, Dessert",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,Free,230.0,4.0
+501,Wondee Siam II,3.0 star rating,267 reviews,$$,,['Thai'],Yes,"813 9th AveNew York, NY 10019",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,No,No,267.0,3.0
+502,Wondee Siam,4.0 star rating,776 reviews,$$,,['Thai'],Yes,"792 9th AveNew York, NY 10019",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",No,No,No,Average,No,Street,Yes,No,Yes,No,No,776.0,4.0
+503,Wondee’s Thai Food,3.5 star rating,92 reviews,$$,,['Thai'],Yes,"296 Main StHackensack, NJ 07601",No,Casual,Casual,No,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,No,"Street, Private Lot",Yes,Yes,Yes,Yes,No,92.0,3.5
+504,Wyckoff Thai,4.5 star rating,46 reviews,$$,,['Thai'],Yes,"314 Franklin AveWyckoff, NJ 07481",Beer & Wine Only,,Casual,Yes,Yes,No,"Lunch, Dinner",Yes,Yes,No,Average,No,Private Lot,Yes,Yes,Yes,,No,46.0,4.5
+505,Xahar Thai,3.0 star rating,39 reviews,$$,,"['Halal', 'Thai', 'Indian']",Yes,"79-17 Atlantic aveOzone Park, NY 11421",No,Divey,Casual,No,Yes,Yes,Dessert,Yes,Yes,No,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,39.0,3.0
+506,Xing Wok,3.0 star rating,7 reviews,$$,$11-30,"['Chinese', 'Thai']",Yes,"Pathmark Shopping Center3040 Rt 35 SHazlet, NJ 07730",No,,Casual,Yes,,Yes,,No,Yes,No,Average,No,,Yes,No,Yes,,,7.0,3.0
+507,XO Taste,3.0 star rating,133 reviews,$$,$11-30,"['Chinese', 'Thai', 'Asian Fusion']",Yes,"41 Elizabeth StNew York, NY 10013",No,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,No,Yes,,No,133.0,3.0
+508,Xun Su Asian Cuisine,2.5 star rating,7 reviews,$$,,"['Thai', 'Chinese', 'Asian Fusion']",Yes,"Terminal C Laguadia AirportNew YorkQueens, NY",No,,Casual,No,,No,,No,Yes,No,,No,,Yes,No,,,,7.0,2.5
+509,Yahar,2.5 star rating,3 reviews,,,['Thai'],,"7919 Atlantic AvenueJamaica, NY 11421",,,,,,,,,,,,,,,,,,,3.0,2.5
+510,Yum Yum Bangkok,3.5 star rating,550 reviews,$$,,['Thai'],Yes,"650 9th AveNew York, NY 10036",Full Bar,Casual,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,550.0,3.5
+511,Yum Yum Queens,3.0 star rating,163 reviews,$$,,"['Thai', 'Bars']",Yes,"43-01 Queens BlvdSunnyside, NY 11104",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Average,No,Street,Yes,Yes,Yes,Yes,No,163.0,3.0
+512,Yum Yum Too,3.5 star rating,284 reviews,$$,,['Thai'],Yes,"662 9th AveNew York, NY 10036",Full Bar,Casual,Casual,Yes,No,Yes,Dinner,Yes,No,No,Average,Yes,Street,Yes,Yes,Yes,Yes,No,284.0,3.5
+513,Yummy Asia,3.5 star rating,10 reviews,$$,,"['Japanese', 'Thai', 'Chinese']",Yes,"198 Stevens AveCedar Grove, NJ 07009",No,,Casual,Yes,,Yes,,Yes,Yes,,,No,,Yes,No,No,,No,10.0,3.5
+514,Yummy Oriental Restaurant,3.5 star rating,15 reviews,$$,,"['Chinese', 'Japanese', 'Thai']",Yes,"86 Main StPort Washington, NY 11050",,,Casual,,,Yes,,No,No,No,,No,,Yes,No,No,Yes,Paid,15.0,3.5
+515,Yummy Thai II,2.0 star rating,13 reviews,$$,,['Thai'],Yes,"8523 3rd AveBrooklyn, NY 11209",,,,,,Yes,,No,,,,,,Yes,No,,,,13.0,2.0
+516,Yummy Thai,3.0 star rating,289 reviews,$$,$11-30,['Thai'],Yes,"4959 BroadwayNew York, NY 10034",Full Bar,Casual,Casual,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,No,289.0,3.0
+517,Yummy Wang,5.0 star rating,1 review,,,"['Chinese', 'Thai']",Yes,"198 Stevens AveCedar Grove, NJ 07009",,,,,,Yes,,,,,,,,Yes,,,,,1.0,5.0
+518,Zabb City,3.5 star rating,112 reviews,$$,,['Thai'],Yes,"244 E 13th StNew York, NY 10003",Beer & Wine Only,,Casual,No,No,Yes,"Lunch, Dinner",No,Yes,No,Quiet,No,Street,Yes,No,Yes,Yes,,112.0,3.5
+519,Zen Fusion Cuisine,3.0 star rating,162 reviews,$$,,"['Asian Fusion', 'Thai', 'Japanese']",Yes,"79-28 Parsons BlvdFlushing, NY 11367",Full Bar,Trendy,Casual,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,Yes,Average,No,Street,Yes,Yes,Yes,,No,162.0,3.0
+520,Zest,4.0 star rating,529 reviews,$$,$11-30,"['Sushi Bars', 'Japanese', 'Thai']",Yes,"249 Broome StNew York, NY 10002",Beer & Wine Only,Casual,Casual,Yes,Yes,Yes,Dinner,Yes,Yes,No,Average,No,Street,Yes,No,Yes,Yes,No,529.0,4.0
